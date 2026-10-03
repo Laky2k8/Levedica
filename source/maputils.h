@@ -6,6 +6,7 @@
 #include <vector>
 #include <algorithm>
 #include "defs.h"
+#include "utils.h"
 
 uint16_t rgb_to_16bit(uint8_t r, uint8_t g, uint8_t b) 
 {
@@ -16,7 +17,30 @@ uint16_t rgb_to_16bit(uint8_t r, uint8_t g, uint8_t b)
     return (r_bits << 11) | (g_bits << 5) | b_bits;
 }
 
-GRRLIB_texImg* prerenderMap(GRRLIB_texImg *source_map, u32 provinceColor, u32 borderColor, u32 coastlineColor, int borderThickness)
+vec2 screen_pos_to_map(vec2 screenPos, vec2 mapPos, vec2 mapScale, u32 map_width, u32 map_height)
+{
+	vec2 mapCoords(-1, -1);
+
+	// translate relative to map origin
+	float dX = screenPos.x - mapPos.x;
+	float dY = screenPos.y - mapPos.y;
+
+	// undo zooming
+	vec2 rawPos;
+	rawPos.x = floorf(dX / mapScale.x);
+	rawPos.y = floorf(dY / mapScale.y);
+
+	// check against bounds
+	if ((rawPos.x >= 0 && static_cast<int>(rawPos.x) < static_cast<int>(map_width)) && (rawPos.y >= 0 && static_cast<int>(rawPos.y) < static_cast<int>(map_height)))
+	{
+		mapCoords.x = rawPos.x;
+		mapCoords.y = rawPos.y;
+	}
+
+	return mapCoords;
+}
+
+GRRLIB_texImg* prerenderMap(GRRLIB_texImg *source_map, u32 provinceColor, u32 selectedColor, u32 borderColor, u32 coastlineColor, int borderThickness, std::vector<uint16_t> selectedTiles)
 {
 	if(!source_map)
 	{
@@ -112,12 +136,27 @@ GRRLIB_texImg* prerenderMap(GRRLIB_texImg *source_map, u32 provinceColor, u32 bo
 			}
 			else
 			{
-				GRRLIB_SetPixelTotexImg(x, y, output_map, provinceColor);
+				// If the current pixel's corresponding state ID is in the selectedTiles vector, use the selectedColor; otherwise, use the provinceColor
+                u8 r = (current_pixel >> 24) & 0xFF;
+                u8 g = (current_pixel >> 16) & 0xFF;
+                u8 b = (current_pixel >> 8)  & 0xFF;
+
+                uint16_t state_id = rgb_to_16bit(r, g, b);
+
+				if (std::find(selectedTiles.begin(), selectedTiles.end(), state_id) != selectedTiles.end())
+				{
+					GRRLIB_SetPixelTotexImg(x, y, output_map, selectedColor);
+				}
+				else
+				{
+					GRRLIB_SetPixelTotexImg(x, y, output_map, provinceColor);
+				}
 			}
 		}
 	}
 
 	GRRLIB_FlushTex(output_map);
+	GX_InvalidateTexAll(); 
     return output_map;
 
 }

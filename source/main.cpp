@@ -7,6 +7,7 @@
 #include <stdlib.h>
 #include <unistd.h>             // Needed for sleep() and chdir()
 #include <dirent.h>             // Needed for DIR, opendir(), closedir()
+#include <print>
 #include <string>
 
 #include "defs.h"
@@ -25,6 +26,9 @@
 
 #define CURSOR_HOTSPOT_X 5.0f
 #define CURSOR_HOTSPOT_Y 46.0f
+
+vec2 map_pos(-150, -75);
+vec2 map_scale(1, 1);
 
 static u8 CalculateFrameRate(void);
 std::string read_file(const char *path);
@@ -57,6 +61,8 @@ int main() {
 
     // Debugginh to Dolphin
     SYS_STDIO_Report(true);
+
+    std::vector<uint16_t> selectedStates;
 
 
     /*const guVector triangle[] = {{400,200,0.0f}, {500,400,0.0f}, {300,400,0.0f}};
@@ -108,7 +114,7 @@ int main() {
         printf("Map image loaded.");
     }
 
-    GRRLIB_texImg *tex_map_image = prerenderMap(tex_map_raw, GRRLIB_GREEN, GRRLIB_WHITE, GRRLIB_BLACK, 1);
+    GRRLIB_texImg *tex_map_image = prerenderMap(tex_map_raw, GRRLIB_GRAY, GRRLIB_RED, GRRLIB_WHITE, GRRLIB_BLACK, 1, selectedStates);
 
 
     while(SYS_MainLoop()) 
@@ -126,7 +132,7 @@ int main() {
         GRRLIB_FillScreen(GRRLIB_NAVY);    // Clear the screen
         WPAD_Rumble(WPAD_CHAN_0, 0);
 
-        GRRLIB_DrawImg(-150, -100, tex_map_image, 0, 1, 1, GRRLIB_WHITE);
+        GRRLIB_DrawImg((int)map_pos.x, (int)map_pos.y, tex_map_image, 0, map_scale.x, map_scale.y, GRRLIB_WHITE);
 
         GRRLIB_Printf(5, 25, tex_BMfont5, GRRLIB_WHITE, 1, (std::string(TITLE) + " " + std::string(VERSION_NUM)).c_str());
 
@@ -177,7 +183,53 @@ int main() {
 
         if(buttonsHeld & WPAD_BUTTON_A)
         {
-            GRRLIB_Printf(5, 100, tex_BMfont5, GRRLIB_WHITE, 1, "X: %.2f, Y: %.2f", cursor_x, cursor_y);
+            vec2 click_pos = screen_pos_to_map(vec2(pointer1.x, pointer1.y), map_pos, map_scale, tex_map_raw->w, tex_map_raw->h);
+
+            u32 pixel_color;
+            uint16_t state_id;
+            State selected_state;
+            if (click_pos.x >= 0 && click_pos.y >= 0)
+            {
+                pixel_color = GRRLIB_GetPixelFromtexImg((int)click_pos.x, (int)click_pos.y, tex_map_raw);
+
+                u8 r = (pixel_color >> 24) & 0xFF;
+                u8 g = (pixel_color >> 16) & 0xFF;
+                u8 b = (pixel_color >> 8)  & 0xFF;
+
+                state_id = rgb_to_16bit(r, g, b);
+
+                // find the state with the corresponding ID
+                auto it = std::find_if(states.begin(), states.end(), [state_id](const State& state) 
+                {
+                        return state.getID() == state_id;
+                });
+
+                if (it != states.end()) 
+                {
+                    selected_state = *it;
+                }
+
+                // temp state painting, TODO replace with actual country system lmao
+                auto state_it = std::find(selectedStates.begin(), selectedStates.end(), state_id);
+                if (state_it == selectedStates.end()) 
+                {
+                    selectedStates.push_back(state_id);
+
+                    // rerender
+                    GX_DrawDone();
+                    GRRLIB_FreeTexture(tex_map_image);
+                    tex_map_image = prerenderMap(tex_map_raw, GRRLIB_GRAY, GRRLIB_RED, GRRLIB_WHITE, GRRLIB_BLACK, 1, selectedStates);
+                } 
+            }
+            
+
+            // Gray rectangle in bottom left corner
+            GRRLIB_Rectangle(0, 380, 400, 100, GRRLIB_GRAY, true);
+
+            GRRLIB_Printf(5, 400, tex_BMfont5, GRRLIB_BLACK, 1, "X: %.2f, Y: %.2f", cursor_x, cursor_y);
+            GRRLIB_Printf(5, 420, tex_BMfont5, GRRLIB_BLACK, 1, "Position on map: X: %.2f, Y: %.2f", click_pos.x, click_pos.y);
+            GRRLIB_Printf(5, 440, tex_BMfont5, GRRLIB_BLACK, 1, "Clicked pixel color: %u", pixel_color);
+            GRRLIB_Printf(5, 460, tex_BMfont5, GRRLIB_BLACK, 1, "State ID: %d, Name: %s", state_id, selected_state.getName().c_str());
         }
 
 

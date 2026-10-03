@@ -19,5 +19,5 @@
 #define GRRLIB_WHITE   0xFFFFFFFF
 #define GRRLIB_EMPTY   0x00000000
 
-#define TITLE "Miis of Iron (Working Title)"
+#define TITLE "Levedica"
 #define VERSION_NUM "0.0.1"

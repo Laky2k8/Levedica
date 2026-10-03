@@ -17,12 +17,19 @@ class State
 			this->original_country_code = original_country_code;
 		}
 
-		int getID()
+		State()
+		{
+			this->state_id = -1;
+			this->name = "";
+			this->original_country_code = "";
+		}
+
+		int getID() const
 		{
 			return this->state_id;
 		}
 
-		std::string getName()
+		std::string getName() const
 		{
 			return this->name;
 		}
