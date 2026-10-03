@@ -1,5 +1,4 @@
-#ifndef ARPADICA_COUNTRY_H
-#define ARPADICA_COUNTRY_H
+#pragma once
 
 #include <grrlib.h>
 #include <string>
@@ -9,7 +8,7 @@
 #include <algorithm>
 #include <vector>
 
-#include "defs.h"
+#include "../defs.h"
 
 enum Ideology
 {
@@ -124,5 +123,3 @@ class Country
 
 
 };
-
-#endif

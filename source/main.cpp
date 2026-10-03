@@ -14,7 +14,11 @@
 #include "BMfont5_png.h"
 #include "cursor_png.h"
 
+#include "map/state.hpp"
+#include "map/country.hpp"
+
 #include "maputils.h"
+#include "csv.h"
 
 //#include "imagemaniptest.h"
 
@@ -77,6 +81,20 @@ int main() {
     if(chdir("/")) die("Could not change to root directory, exiting.\n");
 
     std::string map_definitions = read_file("sd:/map.csv");
+
+    std::vector<State> states;
+    try
+    {
+        states = parse_state_csv(map_definitions);
+    }
+    catch(const std::exception& e)
+    {
+        die(e.what());
+    }
+
+    printf((states.at(0).getID() + " - Name: " + states.at(0).getName()).c_str());
+    
+
     //printf("CSV Contents: %s\n", map_definitions.c_str());
 
     // Map image

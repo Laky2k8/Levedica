@@ -1,3 +1,5 @@
+#pragma once
+
 // RGBA Colors
 #define GRRLIB_BLACK   0x000000FF
 #define GRRLIB_MAROON  0x800000FF
