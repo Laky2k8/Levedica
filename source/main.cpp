@@ -52,6 +52,7 @@ void die(const char *msg)
     exit(0);
 }
 
+
 int main() {
     u8 FPS = 0;
 
@@ -87,18 +88,29 @@ int main() {
     if(chdir("/")) die("Could not change to root directory, exiting.\n");
 
     std::string map_definitions = read_file("sd:/map.csv");
+    std::string country_definitions = read_file("sd:/countries.csv");
+    std::string state_owner_definitions = read_file("sd:/states.csv");
+
+    if (map_definitions.empty()) die("Could not read sd:/map.csv or file is empty!");
+    if (state_owner_definitions.empty()) die("Could not read sd:/states.csv or file is empty!");
+    if (country_definitions.empty()) die("Could not read sd:/countries.csv or file is empty!");
+
+    printf("State owner definitions: %s\n", state_owner_definitions.c_str());
 
     std::vector<State> states;
+    std::vector<Country> countries;
     try
     {
-        states = parse_state_csv(map_definitions);
+        countries = parse_country_csv(country_definitions);
+        states = parse_state_csv(map_definitions, state_owner_definitions);
     }
     catch(const std::exception& e)
     {
         die(e.what());
     }
 
-    printf((states.at(0).getID() + " - Name: " + states.at(0).getName()).c_str());
+    //printf((states.at(0).getID() + " - Name: " + states.at(0).getName()).c_str());
+    printf("%d - Name: %s, Owner: %s\n", states.at(0).getID(), states.at(0).getName().c_str(), states.at(0).owner_country.c_str());
     
 
     //printf("CSV Contents: %s\n", map_definitions.c_str());
@@ -114,9 +126,9 @@ int main() {
         printf("Map image loaded.");
     }
 
-    GRRLIB_texImg *tex_map_image = prerenderMap(tex_map_raw, GRRLIB_GRAY, GRRLIB_RED, GRRLIB_WHITE, GRRLIB_BLACK, 1, selectedStates);
+    GRRLIB_texImg *tex_map_image = prerenderMap(tex_map_raw, GRRLIB_GRAY, GRRLIB_RED, GRRLIB_WHITE, GRRLIB_BLACK, 1, states, countries);
 
-
+    State *selected_state;
     while(SYS_MainLoop()) 
     {
         WPAD_ScanPads();
@@ -187,7 +199,6 @@ int main() {
 
             u32 pixel_color;
             uint16_t state_id;
-            State selected_state;
             if (click_pos.x >= 0 && click_pos.y >= 0)
             {
                 pixel_color = GRRLIB_GetPixelFromtexImg((int)click_pos.x, (int)click_pos.y, tex_map_raw);
@@ -199,18 +210,10 @@ int main() {
                 state_id = rgb_to_16bit(r, g, b);
 
                 // find the state with the corresponding ID
-                auto it = std::find_if(states.begin(), states.end(), [state_id](const State& state) 
-                {
-                        return state.getID() == state_id;
-                });
-
-                if (it != states.end()) 
-                {
-                    selected_state = *it;
-                }
+                selected_state = getStateByID(states, state_id);
 
                 // temp state painting, TODO replace with actual country system lmao
-                auto state_it = std::find(selectedStates.begin(), selectedStates.end(), state_id);
+                /*auto state_it = std::find(selectedStates.begin(), selectedStates.end(), state_id);
                 if (state_it == selectedStates.end()) 
                 {
                     selectedStates.push_back(state_id);
@@ -218,18 +221,19 @@ int main() {
                     // rerender
                     GX_DrawDone();
                     GRRLIB_FreeTexture(tex_map_image);
-                    tex_map_image = prerenderMap(tex_map_raw, GRRLIB_GRAY, GRRLIB_RED, GRRLIB_WHITE, GRRLIB_BLACK, 1, selectedStates);
-                } 
+                    tex_map_image = prerenderMap(tex_map_raw, GRRLIB_GRAY, GRRLIB_RED, GRRLIB_WHITE, GRRLIB_BLACK, 1, states, countries);
+                } */
             }
             
 
             // Gray rectangle in bottom left corner
-            GRRLIB_Rectangle(0, 380, 400, 100, GRRLIB_GRAY, true);
+            GRRLIB_Rectangle(0, 350, 400, 130, GRRLIB_GRAY, true);
 
-            GRRLIB_Printf(5, 400, tex_BMfont5, GRRLIB_BLACK, 1, "X: %.2f, Y: %.2f", cursor_x, cursor_y);
-            GRRLIB_Printf(5, 420, tex_BMfont5, GRRLIB_BLACK, 1, "Position on map: X: %.2f, Y: %.2f", click_pos.x, click_pos.y);
-            GRRLIB_Printf(5, 440, tex_BMfont5, GRRLIB_BLACK, 1, "Clicked pixel color: %u", pixel_color);
-            GRRLIB_Printf(5, 460, tex_BMfont5, GRRLIB_BLACK, 1, "State ID: %d, Name: %s", state_id, selected_state.getName().c_str());
+            GRRLIB_Printf(5, 380, tex_BMfont5, GRRLIB_BLACK, 1, "X: %.2f, Y: %.2f", cursor_x, cursor_y);
+            GRRLIB_Printf(5, 400, tex_BMfont5, GRRLIB_BLACK, 1, "Position on map: X: %.2f, Y: %.2f", click_pos.x, click_pos.y);
+            GRRLIB_Printf(5, 420, tex_BMfont5, GRRLIB_BLACK, 1, "Clicked pixel color: %u", pixel_color);
+            GRRLIB_Printf(5, 440, tex_BMfont5, GRRLIB_BLACK, 1, "State ID: %d, Name: %s", state_id, selected_state->getName().c_str(), selected_state->owner_country.c_str());
+            GRRLIB_Printf(5, 460, tex_BMfont5, GRRLIB_BLACK, 1, "Current Owner: %s", selected_state->owner_country.c_str());
         }
 
 

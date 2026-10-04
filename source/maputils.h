@@ -7,6 +7,8 @@
 #include <algorithm>
 #include "defs.h"
 #include "utils.h"
+#include "map/state.hpp"
+#include "map/country.hpp"
 
 uint16_t rgb_to_16bit(uint8_t r, uint8_t g, uint8_t b) 
 {
@@ -40,7 +42,7 @@ vec2 screen_pos_to_map(vec2 screenPos, vec2 mapPos, vec2 mapScale, u32 map_width
 	return mapCoords;
 }
 
-GRRLIB_texImg* prerenderMap(GRRLIB_texImg *source_map, u32 provinceColor, u32 selectedColor, u32 borderColor, u32 coastlineColor, int borderThickness, std::vector<uint16_t> selectedTiles)
+GRRLIB_texImg* prerenderMap(GRRLIB_texImg *source_map, u32 provinceColor, u32 selectedColor, u32 borderColor, u32 coastlineColor, int borderThickness, std::vector<State> states, std::vector<Country> countries)
 {
 	if(!source_map)
 	{
@@ -142,10 +144,11 @@ GRRLIB_texImg* prerenderMap(GRRLIB_texImg *source_map, u32 provinceColor, u32 se
                 u8 b = (current_pixel >> 8)  & 0xFF;
 
                 uint16_t state_id = rgb_to_16bit(r, g, b);
+				State* state = getStateByID(states, state_id);
 
-				if (std::find(selectedTiles.begin(), selectedTiles.end(), state_id) != selectedTiles.end())
+				if (state != nullptr && getCountryByID(countries, state->owner_country) != nullptr)
 				{
-					GRRLIB_SetPixelTotexImg(x, y, output_map, selectedColor);
+					GRRLIB_SetPixelTotexImg(x, y, output_map, getCountryByID(countries, state->owner_country)->getColor());
 				}
 				else
 				{

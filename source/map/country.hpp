@@ -123,3 +123,16 @@ class Country
 
 
 };
+
+
+Country* getCountryByID(const std::vector<Country>& countries, const std::string& country_id)
+{
+    for (const auto& country : countries)
+    {
+        if (country.getId() == country_id)
+        {
+            return const_cast<Country*>(&country);
+        }
+    }
+    return nullptr; // Country not found
+}

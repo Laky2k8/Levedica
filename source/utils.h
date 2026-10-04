@@ -4,6 +4,24 @@
 #include <string>
 #include <sstream>
 
+u32 hex_to_u32(const char *hex_str) 
+{
+    const char *offset_str = hex_str;
+    if (hex_str[0] == '0' && (hex_str[1] == 'x' || hex_str[1] == 'X')) 
+	{
+        offset_str += 2;
+    }
+
+    if (strlen(offset_str) == 6) 
+	{
+        char rgba_str[9];
+        snprintf(rgba_str, sizeof(rgba_str), "%sFF", offset_str);
+        return (u32)strtoul(rgba_str, NULL, 16);
+    }
+    
+    return (u32)strtoul(hex_str, NULL, 16);
+}
+
 // Modified from vec3 implementation of https://raytracing.github.io/books/RayTracingInOneWeekend.html
 class vec2 
 {

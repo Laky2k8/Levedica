@@ -3,3 +3,4 @@ build/
 sdcard/
 *.dol
 *.elf
+*.old
