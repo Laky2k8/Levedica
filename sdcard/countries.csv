@@ -1,0 +1,11 @@
+country_id;country_name;totalitarian_right;authoritarian_right;democratic_right;nonaligned;democratic_left;authoritarian_left;totalitarian_left;color
+HUN;Hungary;Empire of Greater Hungary;Hungarian State;Republic of Hungary;Kingdom of Hungary;Republic of Hungary;Hungarian Peoples' Republic;Hungarian Council Republic;0x55A65BFF
+CZE;Czechoslovakia;Moravian Empire;Czecho-Slovak State;Republic of Czechoslovakia;Kingdom of Bohemia-Slovakia;Republic of Czechoslovakia;Czechoslovak Socialist Republic;Union of Zapadoslav Council Republics;0x567CD8FF
+ROM;Romania;Dacian Empire;Kingdom of Romania;Republic of Romania;Kingdom of Romania;Republic of Romania;Romanian Peoples' Republics;Union of Romanian Councils;0xEEDA64FF
+YUG;Yugoslavia;Kingdom of Greater Serbia;Kingdom of Yugoslavia;Federal Republic of Yugoslavia;Kingdom of Yugoslavia;Federal Republic of Yugoslavia;Socialist Federal Republic of  Yugoslavia;Socialist Federal Republic of  Yugoslavia;0x3D3D7CFF
+ALB;Albania;Albania;Albania;Albania;Albania;Albania;Albania;Albania;0x800000FF
+POL;Poland;Polish-Lithuanian Empire;Polish State;Republic of Poland;Republic of Poland;Republic of Poland;Polish Peoples' Republic;Zapadoslav Union of Polish Councils;0xFFA4A4FF
+GER;Germany;Germanisches Reich;Deutsches Reich;German Republic;German Empire;German Republic;Democratic Republic of Germany;Deutsches Raeterbund;0x575757FF
+AUS;Austria;Austria;Austria;Austria;Austria;Austria;Austria;Austria;0xC0C0C0FF
+ITA;Italy;Imperio Romana;Kingdom of Italy;Italian Republic;Kingdom of Italy;Italian Republic;Italian Republic;Union of Italian Communes;0x008000FF
+FRA;France;French Empire;Kingdom of France;French Republic;French Republic;French Republic;French Republic;French Republic;0x0000A0FF

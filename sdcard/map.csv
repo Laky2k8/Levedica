@@ -1,0 +1,4334 @@
+index;state_name;original_country_code
+0;Kirde-Eesti;EE
+1;Drôme;FR
+1;Drôme;FR
+2;Isère;FR
+2;Isère;FR
+2;Isère;FR
+3;Mühlviertel;AT
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+4;Åland;FI
+5;Seine-et-Marne;FR
+6;Karditsa, Trikala;EL
+7;Larisa;EL
+8;Magnisia, Sporades;EL
+8;Magnisia, Sporades;EL
+8;Magnisia, Sporades;EL
+8;Magnisia, Sporades;EL
+8;Magnisia, Sporades;EL
+8;Magnisia, Sporades;EL
+8;Magnisia, Sporades;EL
+8;Magnisia, Sporades;EL
+8;Magnisia, Sporades;EL
+8;Magnisia, Sporades;EL
+8;Magnisia, Sporades;EL
+8;Magnisia, Sporades;EL
+8;Magnisia, Sporades;EL
+8;Magnisia, Sporades;EL
+8;Magnisia, Sporades;EL
+9;Burgos;ES
+9;Burgos;ES
+9;Burgos;ES
+9;Burgos;ES
+9;Burgos;ES
+10;León;ES
+11;Ikaria, Samos;EL
+11;Ikaria, Samos;EL
+11;Ikaria, Samos;EL
+11;Ikaria, Samos;EL
+11;Ikaria, Samos;EL
+11;Ikaria, Samos;EL
+12;Chios;EL
+12;Chios;EL
+12;Chios;EL
+12;Chios;EL
+12;Chios;EL
+13;Zakynthos;EL
+13;Zakynthos;EL
+14;Kerkyra;EL
+14;Kerkyra;EL
+14;Kerkyra;EL
+14;Kerkyra;EL
+14;Kerkyra;EL
+14;Kerkyra;EL
+14;Kerkyra;EL
+14;Kerkyra;EL
+15;Ithaki, Kefallinia;EL
+15;Ithaki, Kefallinia;EL
+15;Ithaki, Kefallinia;EL
+15;Ithaki, Kefallinia;EL
+15;Ithaki, Kefallinia;EL
+15;Ithaki, Kefallinia;EL
+15;Ithaki, Kefallinia;EL
+15;Ithaki, Kefallinia;EL
+15;Ithaki, Kefallinia;EL
+16;Lefkada;EL
+16;Lefkada;EL
+16;Lefkada;EL
+16;Lefkada;EL
+16;Lefkada;EL
+16;Lefkada;EL
+16;Lefkada;EL
+17;Tarragona;ES
+17;Tarragona;ES
+18;Alicante / Alacant;ES
+19;Castellón / Castelló;ES
+20;Valencia / València;ES
+20;Valencia / València;ES
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+21;Pohjanmaa;FI
+22;Eivissa y Formentera;ES
+22;Eivissa y Formentera;ES
+22;Eivissa y Formentera;ES
+22;Eivissa y Formentera;ES
+22;Eivissa y Formentera;ES
+22;Eivissa y Formentera;ES
+22;Eivissa y Formentera;ES
+23;Mallorca;ES
+23;Mallorca;ES
+23;Mallorca;ES
+23;Mallorca;ES
+24;Menorca;ES
+25;Yvelines;FR
+26;Essonne;FR
+27;Hauts-de-Seine;FR
+28;Seine-Saint-Denis;FR
+29;Val-de-Marne;FR
+30;Val-d'Oise;FR
+31;Cher;FR
+32;Burdur;TR
+33;Adana;TR
+34;Içel;TR
+34;Içel;TR
+35;Hatay;TR
+36;Kahramanmaras;TR
+37;Osmaniye;TR
+38;Kirikkale;TR
+39;Aksaray;TR
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+40;Kalymnos, Karpathos, Kos, Rodos;EL
+41;Irakleio;EL
+41;Irakleio;EL
+42;Lasithi;EL
+42;Lasithi;EL
+42;Lasithi;EL
+42;Lasithi;EL
+42;Lasithi;EL
+42;Lasithi;EL
+42;Lasithi;EL
+43;Eure-et-Loir;FR
+44;Indre;FR
+45;Indre-et-Loire;FR
+46;Aitoloakarnania;EL
+47;Achaia;EL
+48;Ileia;EL
+49;Voiotia;EL
+49;Voiotia;EL
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+50;Kymenlaakso;FI
+51;Etelä-Karjala;FI
+52;Etelä-Savo;FI
+53;Pohjois-Savo;FI
+54;Evvoia;EL
+54;Evvoia;EL
+54;Evvoia;EL
+54;Evvoia;EL
+54;Evvoia;EL
+54;Evvoia;EL
+54;Evvoia;EL
+54;Evvoia;EL
+54;Evvoia;EL
+54;Evvoia;EL
+54;Evvoia;EL
+55;Evrytania;EL
+56;Fthiotida;EL
+56;Fthiotida;EL
+57;Fokida;EL
+58;Almería;ES
+59;Cádiz;ES
+59;Cádiz;ES
+60;Córdoba;ES
+60;Córdoba;ES
+60;Córdoba;ES
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+61;Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos;EL
+62;Palencia;ES
+62;Palencia;ES
+62;Palencia;ES
+62;Palencia;ES
+62;Palencia;ES
+63;Granada;ES
+64;Huelva;ES
+65;Jaén;ES
+66;Málaga;ES
+67;Argolida, Arkadia;EL
+67;Argolida, Arkadia;EL
+67;Argolida, Arkadia;EL
+68;Korinthia;EL
+68;Korinthia;EL
+69;Salamanca;ES
+70;Segovia;ES
+71;Soria;ES
+72;Valladolid;ES
+72;Valladolid;ES
+72;Valladolid;ES
+73;Zamora;ES
+74;Rethymni;EL
+74;Rethymni;EL
+75;Chania;EL
+75;Chania;EL
+75;Chania;EL
+75;Chania;EL
+75;Chania;EL
+75;Chania;EL
+76;Lakonia, Messinia;EL
+76;Lakonia, Messinia;EL
+76;Lakonia, Messinia;EL
+76;Lakonia, Messinia;EL
+76;Lakonia, Messinia;EL
+76;Lakonia, Messinia;EL
+76;Lakonia, Messinia;EL
+76;Lakonia, Messinia;EL
+77;A Coruña;ES
+77;A Coruña;ES
+77;A Coruña;ES
+78;Lugo;ES
+79;Ourense;ES
+80;Sevilla;ES
+81;Murcia;ES
+81;Murcia;ES
+81;Murcia;ES
+81;Murcia;ES
+82;Ceuta;ES
+82;Ceuta;ES
+83;Melilla;ES
+84;Loir-et-Cher;FR
+85;Loiret;FR
+86;Côte-d’Or;FR
+86;Côte-d’Or;FR
+87;Nièvre;FR
+88;Saône-et-Loire;FR
+89;Yonne;FR
+90;Pontevedra;ES
+90;Pontevedra;ES
+90;Pontevedra;ES
+90;Pontevedra;ES
+90;Pontevedra;ES
+90;Pontevedra;ES
+90;Pontevedra;ES
+91;Asturias;ES
+92;Cantabria;ES
+92;Cantabria;ES
+93;Araba/Álava;ES
+94;Gipuzkoa;ES
+95;Bizkaia;ES
+95;Bizkaia;ES
+95;Bizkaia;ES
+96;Evros;EL
+96;Evros;EL
+97;Xanthi;EL
+98;Rodopi;EL
+99;Drama;EL
+100;Thasos, Kavala;EL
+100;Thasos, Kavala;EL
+100;Thasos, Kavala;EL
+101;Imathia;EL
+102;Thessaloniki;EL
+103;Kilkis;EL
+104;Albacete;ES
+105;Ciudad Real;ES
+105;Ciudad Real;ES
+106;Cuenca;ES
+107;Guadalajara;ES
+107;Guadalajara;ES
+108;Toledo;ES
+109;Pohjois-Karjala;FI
+110;Kesk-Eesti;EE
+111;Lõuna-Eesti;EE
+112;Voreios Tomeas Athinon;EL
+113;Dytikos Tomeas Athinon;EL
+114;Kentrikos Tomeas Athinon;EL
+115;Notios Tomeas Athinon;EL
+116;Keski-Pohjanmaa;FI
+116;Keski-Pohjanmaa;FI
+116;Keski-Pohjanmaa;FI
+116;Keski-Pohjanmaa;FI
+116;Keski-Pohjanmaa;FI
+116;Keski-Pohjanmaa;FI
+116;Keski-Pohjanmaa;FI
+117;Kainuu;FI
+117;Kainuu;FI
+117;Kainuu;FI
+118;Pella;EL
+119;Pieria;EL
+120;Serres;EL
+121;Chalkidiki;EL
+121;Chalkidiki;EL
+121;Chalkidiki;EL
+122;Grevena, Kozani;EL
+123;Kastoria;EL
+124;Moravička oblast;RS
+125;Pomoravska oblast;RS
+126;Rasinska oblast;RS
+127;Raška oblast;RS
+128;Šumadijska oblast;RS
+129;Anatoliki Attiki;EL
+129;Anatoliki Attiki;EL
+129;Anatoliki Attiki;EL
+129;Anatoliki Attiki;EL
+130;Dytiki Attiki;EL
+131;Peiraias, Nisoi;EL
+131;Peiraias, Nisoi;EL
+131;Peiraias, Nisoi;EL
+131;Peiraias, Nisoi;EL
+131;Peiraias, Nisoi;EL
+131;Peiraias, Nisoi;EL
+131;Peiraias, Nisoi;EL
+131;Peiraias, Nisoi;EL
+131;Peiraias, Nisoi;EL
+131;Peiraias, Nisoi;EL
+131;Peiraias, Nisoi;EL
+131;Peiraias, Nisoi;EL
+131;Peiraias, Nisoi;EL
+131;Peiraias, Nisoi;EL
+131;Peiraias, Nisoi;EL
+131;Peiraias, Nisoi;EL
+131;Peiraias, Nisoi;EL
+131;Peiraias, Nisoi;EL
+131;Peiraias, Nisoi;EL
+132;Lesvos, Limnos;EL
+132;Lesvos, Limnos;EL
+132;Lesvos, Limnos;EL
+132;Lesvos, Limnos;EL
+132;Lesvos, Limnos;EL
+132;Lesvos, Limnos;EL
+133;Navarra;ES
+133;Navarra;ES
+133;Navarra;ES
+134;Florina;EL
+135;Arta, Preveza;EL
+135;Arta, Preveza;EL
+135;Arta, Preveza;EL
+136;Thesprotia;EL
+137;Ioannina;EL
+138;Badajoz;ES
+139;Cáceres;ES
+140;Barcelona;ES
+140;Barcelona;ES
+141;Borska oblast;RS
+142;Braničevska oblast;RS
+143;Zaječarska oblast;RS
+144;Jablanička oblast;RS
+145;Skåne län;SE
+145;Skåne län;SE
+145;Skåne län;SE
+146;Hallands län;SE
+146;Hallands län;SE
+146;Hallands län;SE
+146;Hallands län;SE
+146;Hallands län;SE
+146;Hallands län;SE
+146;Hallands län;SE
+146;Hallands län;SE
+146;Hallands län;SE
+146;Hallands län;SE
+147;Prešovský kraj;SK
+148;La Rioja;ES
+149;Huesca;ES
+150;Teruel;ES
+151;Zaragoza;ES
+152;Keski-Suomi;FI
+152;Keski-Suomi;FI
+152;Keski-Suomi;FI
+152;Keski-Suomi;FI
+153;Girona;ES
+153;Girona;ES
+153;Girona;ES
+154;Lleida;ES
+154;Lleida;ES
+155;Pohjois-Pohjanmaa;FI
+155;Pohjois-Pohjanmaa;FI
+155;Pohjois-Pohjanmaa;FI
+155;Pohjois-Pohjanmaa;FI
+155;Pohjois-Pohjanmaa;FI
+155;Pohjois-Pohjanmaa;FI
+155;Pohjois-Pohjanmaa;FI
+155;Pohjois-Pohjanmaa;FI
+155;Pohjois-Pohjanmaa;FI
+155;Pohjois-Pohjanmaa;FI
+155;Pohjois-Pohjanmaa;FI
+155;Pohjois-Pohjanmaa;FI
+155;Pohjois-Pohjanmaa;FI
+155;Pohjois-Pohjanmaa;FI
+155;Pohjois-Pohjanmaa;FI
+155;Pohjois-Pohjanmaa;FI
+156;Paris;FR
+157;Etelä-Pohjanmaa;FI
+157;Etelä-Pohjanmaa;FI
+158;Kanta-Häme;FI
+159;Päijät-Häme;FI
+159;Päijät-Häme;FI
+160;Madrid;ES
+160;Madrid;ES
+161;Ávila;ES
+162;Košický kraj;SK
+163;Istanbul;TR
+163;Istanbul;TR
+163;Istanbul;TR
+163;Istanbul;TR
+163;Istanbul;TR
+163;Istanbul;TR
+164;Tekirdag;TR
+165;Edirne;TR
+166;Kirklareli;TR
+167;Gers;FR
+168;Lot;FR
+169;Hautes-Pyrénées;FR
+169;Hautes-Pyrénées;FR
+170;Tarn;FR
+171;Tarn-et-Garonne;FR
+172;Südwestpfalz;DE
+173;Regionalverband Saarbrücken;DE
+174;Merzig-Wadern;DE
+175;Neunkirchen;DE
+176;Saarlouis;DE
+177;Jura;CH
+178;Basel-Stadt;CH
+179;Basel-Landschaft;CH
+179;Basel-Landschaft;CH
+180;Aargau;CH
+181;Zürich;CH
+182;Glarus;CH
+183;Schaffhausen;CH
+183;Schaffhausen;CH
+183;Schaffhausen;CH
+184;Appenzell Ausserrhoden;CH
+184;Appenzell Ausserrhoden;CH
+185;Appenzell Innerrhoden;CH
+185;Appenzell Innerrhoden;CH
+186;St. Gallen;CH
+187;Graubünden;CH
+188;Thurgau;CH
+188;Thurgau;CH
+189;Pernik;BG
+190;Kyustendil;BG
+191;Plovdiv;BG
+192;Haskovo;BG
+193;Pazardzhik;BG
+194;Smolyan;BG
+195;Ludwigsburg;DE
+195;Ludwigsburg;DE
+195;Ludwigsburg;DE
+196;Rems-Murr-Kreis;DE
+197;Heilbronn, Stadtkreis;DE
+198;Heilbronn, Landkreis;DE
+199;Eichsfeld;DE
+200;Nordhausen;DE
+201;Unstrut-Hainich-Kreis;DE
+202;Kyffhäuserkreis;DE
+203;Schmalkalden-Meiningen;DE
+204;Gotha;DE
+205;Sömmerda;DE
+206;Hildburghausen;DE
+207;Ilm-Kreis;DE
+208;Weimarer Land;DE
+209;Sonneberg;DE
+210;Saalfeld-Rudolstadt;DE
+211;Saarpfalz-Kreis;DE
+212;St. Wendel;DE
+213;Dresden, Kreisfreie Stadt;DE
+214;Bautzen;DE
+215;Görlitz;DE
+216;Meißen;DE
+216;Meißen;DE
+217;Sächsische Schweiz-Osterzgebirge;DE
+218;Chemnitz, Kreisfreie Stadt;DE
+219;Erzgebirgskreis;DE
+220;Creuse;FR
+221;Haute-Vienne;FR
+222;Konstanz;DE
+222;Konstanz;DE
+223;Lörrach;DE
+224;Waldshut;DE
+225;Reutlingen;DE
+226;Tübingen, Landkreis;DE
+227;Zollernalbkreis;DE
+228;Ulm, Stadtkreis;DE
+229;Alb-Donau-Kreis;DE
+230;Biberach;DE
+231;Bodenseekreis;DE
+232;Ravensburg;DE
+233;Sigmaringen;DE
+234;Ingolstadt, Kreisfreie Stadt;DE
+235;München, Kreisfreie Stadt;DE
+236;Rosenheim, Kreisfreie Stadt;DE
+237;Hohenlohekreis;DE
+238;Schwäbisch Hall;DE
+239;Main-Tauber-Kreis;DE
+240;Heidenheim;DE
+240;Heidenheim;DE
+241;Ostalbkreis;DE
+242;Baden-Baden, Stadtkreis;DE
+242;Baden-Baden, Stadtkreis;DE
+243;Karlsruhe, Stadtkreis;DE
+244;Karlsruhe, Landkreis;DE
+244;Karlsruhe, Landkreis;DE
+245;Rastatt;DE
+245;Rastatt;DE
+246;Straubing-Bogen;DE
+247;Dingolfing-Landau;DE
+248;Amberg, Kreisfreie Stadt;DE
+249;Regensburg, Kreisfreie Stadt;DE
+250;Weiden i. d. Opf, Kreisfreie Stadt;DE
+251;Pas-de-Calais;FR
+252;Aisne;FR
+252;Aisne;FR
+252;Aisne;FR
+253;Oise;FR
+253;Oise;FR
+254;Somme;FR
+255;Bas-Rhin;FR
+256;Haut-Rhin;FR
+257;Wittmund;DE
+257;Wittmund;DE
+257;Wittmund;DE
+258;Charente;FR
+259;Charente-Maritime;FR
+259;Charente-Maritime;FR
+259;Charente-Maritime;FR
+259;Charente-Maritime;FR
+259;Charente-Maritime;FR
+260;Deux-Sèvres;FR
+261;Vienne;FR
+262;Mittelsachsen;DE
+263;Vogtlandkreis;DE
+264;Zwickau;DE
+265;Leipzig, Kreisfreie Stadt;DE
+266;Shkodër;AL
+267;Lezhë;AL
+268;Dibër;AL
+269;Durrës;AL
+270;Elbasan;AL
+271;Tiranë;AL
+272;Korcë;AL
+273;Fier;AL
+274;Vlorë;AL
+274;Vlorë;AL
+275;Gjirokastër;AL
+276;Mittelburgenland;AT
+277;Nordburgenland;AT
+278;Amberg-Sulzbach;DE
+279;Cham;DE
+280;Neumarkt i. d. OPf.;DE
+281;Neustadt a. d. Waldnaab;DE
+282;Regensburg, Landkreis;DE
+283;Schwandorf;DE
+284;Tirschenreuth;DE
+285;Bamberg, Kreisfreie Stadt;DE
+286;Bayreuth, Kreisfreie Stadt;DE
+287;Coburg, Kreisfreie Stadt;DE
+288;Hof, Kreisfreie Stadt;DE
+289;Bamberg, Landkreis;DE
+290;Bayreuth, Landkreis;DE
+291;Düsseldorf, Kreisfreie Stadt;DE
+292;Duisburg, Kreisfreie Stadt;DE
+293;Essen, Kreisfreie Stadt;DE
+294;Krefeld, Kreisfreie Stadt;DE
+295;Mönchengladbach, Kreisfreie Stadt;DE
+296;Mülheim an der Ruhr, Kreisfreie Stadt;DE
+297;Oberhausen, Kreisfreie Stadt;DE
+298;Remscheid, Kreisfreie Stadt;DE
+299;Solingen, Kreisfreie Stadt;DE
+300;Wuppertal, Kreisfreie Stadt;DE
+301;Kleve;DE
+302;Mettmann;DE
+303;Rhein-Kreis Neuss;DE
+304;Viersen;DE
+305;Wesel;DE
+306;Bonn, Kreisfreie Stadt;DE
+307;Köln, Kreisfreie Stadt;DE
+308;Leverkusen, Kreisfreie Stadt;DE
+309;Düren;DE
+310;Saale-Holzland-Kreis;DE
+311;Saale-Orla-Kreis;DE
+312;Leipzig;DE
+313;Nordsachsen;DE
+314;Dessau-Roßlau, Kreisfreie Stadt;DE
+315;Halle (Saale), Kreisfreie Stadt;DE
+316;Magdeburg, Kreisfreie Stadt;DE
+317;Altmarkkreis Salzwedel;DE
+318;Anhalt-Bitterfeld;DE
+319;Jerichower Land;DE
+320;Börde;DE
+321;Allier;FR
+322;Cantal;FR
+323;Arr. Waremme;BE
+324;Arr. Verviers - communes francophones;BE
+325;Bezirk Verviers - Deutschsprachige Gemeinschaft;BE
+325;Bezirk Verviers - Deutschsprachige Gemeinschaft;BE
+326;Arr. Arlon;BE
+327;Arr. Bastogne;BE
+328;Arr. Marche-en-Famenne;BE
+329;Arr. Neufchâteau;BE
+330;Arr. Virton;BE
+331;Arr. Dinant;BE
+332;Arr. Namur;BE
+333;Arr. Philippeville;BE
+334;Vidin;BG
+335;Montana;BG
+336;Luzern;CH
+337;Coburg, Landkreis;DE
+338;Forchheim;DE
+339;Hof, Landkreis;DE
+340;Kronach;DE
+341;Kulmbach;DE
+342;Lichtenfels;DE
+343;Wunsiedel i. Fichtelgebirge;DE
+344;Ansbach, Kreisfreie Stadt;DE
+345;Erlangen, Kreisfreie Stadt;DE
+346;Fürth, Kreisfreie Stadt;DE
+347;Nürnberg, Kreisfreie Stadt;DE
+347;Nürnberg, Kreisfreie Stadt;DE
+348;Schwabach, Kreisfreie Stadt;DE
+349;Ansbach, Landkreis;DE
+350;Erlangen-Höchstadt;DE
+351;Fürth, Landkreis;DE
+352;Nürnberger Land;DE
+353;Greiz;DE
+354;Altenburger Land;DE
+355;Eisenach, Kreisfreie Stadt;DE
+356;Wartburgkreis;DE
+357;Byen København;DK
+357;Byen København;DK
+357;Byen København;DK
+358;Københavns omegn;DK
+359;Nordsjælland;DK
+359;Nordsjælland;DK
+359;Nordsjælland;DK
+359;Nordsjælland;DK
+360;Bornholm;DK
+360;Bornholm;DK
+361;Østsjælland;DK
+362;Ardennes;FR
+363;Aube;FR
+364;Marne;FR
+365;Traunstein;DE
+366;Weilheim-Schongau;DE
+367;Landshut, Kreisfreie Stadt;DE
+368;Passau, Kreisfreie Stadt;DE
+369;Straubing, Kreisfreie Stadt;DE
+370;Deggendorf;DE
+371;Freyung-Grafenau;DE
+372;Kelheim;DE
+373;Landshut, Landkreis;DE
+374;Passau, Landkreis;DE
+375;Regen;DE
+376;Rottal-Inn;DE
+377;Oberkärnten;AT
+378;Neustadt a. d. Aisch-Bad Windsheim;DE
+379;Roth;DE
+380;Weißenburg-Gunzenhausen;DE
+381;Aschaffenburg, Kreisfreie Stadt;DE
+382;Schweinfurt, Kreisfreie Stadt;DE
+383;Würzburg, Kreisfreie Stadt;DE
+384;Aschaffenburg, Landkreis;DE
+385;Bad Kissingen;DE
+386;Rhön-Grabfeld;DE
+387;Haßberge;DE
+388;Kitzingen;DE
+388;Kitzingen;DE
+389;Miltenberg;DE
+390;Main-Spessart;DE
+391;Schweinfurt, Landkreis;DE
+392;Würzburg, Landkreis;DE
+393;Haute-Marne;FR
+394;Meurthe-et-Moselle;FR
+394;Meurthe-et-Moselle;FR
+394;Meurthe-et-Moselle;FR
+395;Meuse;FR
+396;Rhein-Erft-Kreis;DE
+397;Euskirchen;DE
+398;Heinsberg;DE
+399;Oberbergischer Kreis;DE
+400;Rheinisch-Bergischer Kreis;DE
+401;Rhein-Sieg-Kreis;DE
+402;Städteregion Aachen;DE
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+403;Varsinais-Suomi;FI
+404;Jihomoravský kraj;CZ
+405;Olomoucký kraj;CZ
+406;Zlínský kraj;CZ
+407;Moravskoslezský kraj;CZ
+408;Stuttgart, Stadtkreis;DE
+409;Böblingen;DE
+410;Esslingen;DE
+411;Göppingen;DE
+412;Augsburg, Kreisfreie Stadt;DE
+413;Kaufbeuren, Kreisfreie Stadt;DE
+414;Kempten (Allgäu), Kreisfreie Stadt;DE
+415;Memmingen, Kreisfreie Stadt;DE
+416;Aichach-Friedberg;DE
+417;Augsburg, Landkreis;DE
+418;Dillingen a.d. Donau;DE
+419;Günzburg;DE
+420;Neu-Ulm;DE
+421;Lindau (Bodensee);DE
+422;Ostallgäu;DE
+423;Unterallgäu;DE
+423;Unterallgäu;DE
+424;Donau-Ries;DE
+425;Oberallgäu;DE
+426;Berlin;DE
+427;Bottrop, Kreisfreie Stadt;DE
+428;Gelsenkirchen, Kreisfreie Stadt;DE
+429;Münster, Kreisfreie Stadt;DE
+430;Borken;DE
+431;Coesfeld;DE
+432;Recklinghausen;DE
+433;Steinfurt;DE
+434;Warendorf;DE
+435;Bielefeld, Kreisfreie Stadt;DE
+436;Vest- og Sydsjælland;DK
+436;Vest- og Sydsjælland;DK
+436;Vest- og Sydsjælland;DK
+436;Vest- og Sydsjælland;DK
+436;Vest- og Sydsjælland;DK
+436;Vest- og Sydsjælland;DK
+436;Vest- og Sydsjælland;DK
+436;Vest- og Sydsjælland;DK
+436;Vest- og Sydsjælland;DK
+436;Vest- og Sydsjælland;DK
+436;Vest- og Sydsjælland;DK
+436;Vest- og Sydsjælland;DK
+436;Vest- og Sydsjælland;DK
+436;Vest- og Sydsjælland;DK
+436;Vest- og Sydsjælland;DK
+436;Vest- og Sydsjælland;DK
+436;Vest- og Sydsjælland;DK
+436;Vest- og Sydsjælland;DK
+436;Vest- og Sydsjælland;DK
+436;Vest- og Sydsjælland;DK
+436;Vest- og Sydsjælland;DK
+436;Vest- og Sydsjælland;DK
+437;Haute-Loire;FR
+438;Puy-de-Dôme;FR
+439;Ain;FR
+440;Ardèche;FR
+441;Burgenlandkreis;DE
+442;Harz;DE
+442;Harz;DE
+443;Mansfeld-Südharz;DE
+444;Saalekreis;DE
+444;Saalekreis;DE
+445;Salzlandkreis;DE
+446;Mostviertel-Eisenwurzen;AT
+447;Niederösterreich-Süd;AT
+448;Sankt Pölten;AT
+448;Sankt Pölten;AT
+449;Waldviertel;AT
+450;Weinviertel;AT
+451;Wiener Umland/Nordteil;AT
+452;Wiener Umland/Südteil;AT
+453;Wien;AT
+454;Klagenfurt-Villach;AT
+455;Vratsa;BG
+456;Brandenburg an der Havel, Kreisfreie Stadt;DE
+456;Brandenburg an der Havel, Kreisfreie Stadt;DE
+456;Brandenburg an der Havel, Kreisfreie Stadt;DE
+456;Brandenburg an der Havel, Kreisfreie Stadt;DE
+457;Cottbus, Kreisfreie Stadt;DE
+458;Frankfurt (Oder), Kreisfreie Stadt;DE
+459;Potsdam, Kreisfreie Stadt;DE
+460;Barnim;DE
+461;Dahme-Spreewald;DE
+462;Elbe-Elster;DE
+462;Elbe-Elster;DE
+463;Havelland;DE
+464;Märkisch-Oderland;DE
+465;Oberhavel;DE
+466;Oberspreewald-Lausitz;DE
+467;Oder-Spree;DE
+468;Fyn;DK
+468;Fyn;DK
+468;Fyn;DK
+468;Fyn;DK
+468;Fyn;DK
+468;Fyn;DK
+468;Fyn;DK
+468;Fyn;DK
+468;Fyn;DK
+468;Fyn;DK
+468;Fyn;DK
+468;Fyn;DK
+468;Fyn;DK
+468;Fyn;DK
+468;Fyn;DK
+468;Fyn;DK
+468;Fyn;DK
+468;Fyn;DK
+468;Fyn;DK
+468;Fyn;DK
+468;Fyn;DK
+468;Fyn;DK
+468;Fyn;DK
+468;Fyn;DK
+468;Fyn;DK
+468;Fyn;DK
+469;Sydjylland;DK
+469;Sydjylland;DK
+469;Sydjylland;DK
+469;Sydjylland;DK
+469;Sydjylland;DK
+469;Sydjylland;DK
+469;Sydjylland;DK
+470;Moselle;FR
+471;Vosges;FR
+472;Stendal;DE
+472;Stendal;DE
+473;Wittenberg;DE
+474;Flensburg, Kreisfreie Stadt;DE
+475;Kiel, Kreisfreie Stadt;DE
+476;Lübeck, Kreisfreie Stadt;DE
+477;Neumünster, Kreisfreie Stadt;DE
+478;Dithmarschen;DE
+478;Dithmarschen;DE
+479;Herzogtum Lauenburg;DE
+480;Ostprignitz-Ruppin;DE
+481;Potsdam-Mittelmark;DE
+482;Prignitz;DE
+483;Spree-Neiße;DE
+484;Teltow-Fläming;DE
+485;Uckermark;DE
+486;Bremen, Kreisfreie Stadt;DE
+486;Bremen, Kreisfreie Stadt;DE
+487;Bremerhaven, Kreisfreie Stadt;DE
+487;Bremerhaven, Kreisfreie Stadt;DE
+488;Hamburg;DE
+488;Hamburg;DE
+488;Hamburg;DE
+489;Darmstadt, Kreisfreie Stadt;DE
+490;Frankfurt am Main, Kreisfreie Stadt;DE
+491;Offenbach am Main, Kreisfreie Stadt;DE
+492;Wiesbaden, Kreisfreie Stadt;DE
+493;Loire-Atlantique;FR
+494;Maine-et-Loire;FR
+495;Mayenne;FR
+496;Sarthe;FR
+497;Gütersloh;DE
+498;Herford;DE
+499;Höxter;DE
+500;Lippe;DE
+501;Minden-Lübbecke;DE
+502;Paderborn;DE
+503;Bochum, Kreisfreie Stadt;DE
+504;Lappi;FI
+504;Lappi;FI
+504;Lappi;FI
+504;Lappi;FI
+504;Lappi;FI
+504;Lappi;FI
+504;Lappi;FI
+504;Lappi;FI
+504;Lappi;FI
+504;Lappi;FI
+504;Lappi;FI
+505;Doubs;FR
+506;Jura;FR
+507;Haute-Saône;FR
+508;Territoire de Belfort;FR
+509;Uri;CH
+510;Schwyz;CH
+511;Obwalden;CH
+511;Obwalden;CH
+512;Nidwalden;CH
+513;Zug;CH
+514;Ticino;CH
+515;Kypros;CY
+516;Hlavní město Praha;CZ
+517;Středočeský kraj;CZ
+518;Altötting;DE
+519;Berchtesgadener Land;DE
+520;Bergstraße;DE
+520;Bergstraße;DE
+521;Darmstadt-Dieburg;DE
+522;Groß-Gerau;DE
+523;Hochtaunuskreis;DE
+524;Main-Kinzig-Kreis;DE
+525;Main-Taunus-Kreis;DE
+526;Odenwaldkreis;DE
+527;Offenbach, Landkreis;DE
+528;Rheingau-Taunus-Kreis;DE
+529;Wetteraukreis;DE
+530;Gießen, Landkreis;DE
+531;Lahn-Dill-Kreis;DE
+532;Limburg-Weilburg;DE
+533;Marburg-Biedenkopf;DE
+534;Vogelsbergkreis;DE
+535;Kassel, Kreisfreie Stadt;DE
+535;Kassel, Kreisfreie Stadt;DE
+536;Dortmund, Kreisfreie Stadt;DE
+537;Hagen, Kreisfreie Stadt;DE
+538;Hamm, Kreisfreie Stadt;DE
+539;Herne, Kreisfreie Stadt;DE
+540;Ennepe-Ruhr-Kreis;DE
+541;Hochsauerlandkreis;DE
+542;Märkischer Kreis;DE
+543;Olpe;DE
+544;Siegen-Wittgenstein;DE
+545;Soest;DE
+546;Unna;DE
+547;Koblenz, Kreisfreie Stadt;DE
+548;Vestjylland;DK
+548;Vestjylland;DK
+548;Vestjylland;DK
+548;Vestjylland;DK
+548;Vestjylland;DK
+549;Aude;FR
+550;Gard;FR
+551;Hérault;FR
+552;Lozère;FR
+553;Pyrénées-Orientales;FR
+554;Ariège;FR
+555;Aveyron;FR
+556;Bludenz-Bregenzer Wald;AT
+557;Pleven;BG
+558;Lovech;BG
+559;Veliko Tarnovo;BG
+560;Gabrovo;BG
+561;Ruse;BG
+561;Ruse;BG
+562;Razgrad;BG
+563;Silistra;BG
+564;Varna;BG
+565;Jihočeský kraj;CZ
+566;Fulda;DE
+567;Hersfeld-Rotenburg;DE
+568;Kassel, Landkreis;DE
+569;Schwalm-Eder-Kreis;DE
+570;Waldeck-Frankenberg;DE
+571;Werra-Meißner-Kreis;DE
+572;Rostock, Kreisfreie Stadt;DE
+573;Schwerin, Kreisfreie Stadt;DE
+574;Mecklenburgische Seenplatte;DE
+575;Landkreis Rostock;DE
+575;Landkreis Rostock;DE
+576;Østjylland;DK
+576;Østjylland;DK
+576;Østjylland;DK
+576;Østjylland;DK
+576;Østjylland;DK
+576;Østjylland;DK
+576;Østjylland;DK
+576;Østjylland;DK
+576;Østjylland;DK
+576;Østjylland;DK
+577;Nordjylland;DK
+577;Nordjylland;DK
+577;Nordjylland;DK
+577;Nordjylland;DK
+577;Nordjylland;DK
+577;Nordjylland;DK
+577;Nordjylland;DK
+578;Põhja-Eesti;EE
+578;Põhja-Eesti;EE
+578;Põhja-Eesti;EE
+578;Põhja-Eesti;EE
+578;Põhja-Eesti;EE
+578;Põhja-Eesti;EE
+578;Põhja-Eesti;EE
+578;Põhja-Eesti;EE
+578;Põhja-Eesti;EE
+579;Vendée;FR
+579;Vendée;FR
+579;Vendée;FR
+580;Kukës;AL
+581;Unterkärnten;AT
+582;Graz;AT
+583;Liezen;AT
+584;Östliche Obersteiermark;AT
+585;Oststeiermark;AT
+586;West- und Südsteiermark;AT
+587;Westliche Obersteiermark;AT
+588;Innviertel;AT
+589;Linz-Wels;AT
+590;Dobrich;BG
+590;Dobrich;BG
+591;Vorpommern-Rügen;DE
+591;Vorpommern-Rügen;DE
+591;Vorpommern-Rügen;DE
+591;Vorpommern-Rügen;DE
+591;Vorpommern-Rügen;DE
+591;Vorpommern-Rügen;DE
+591;Vorpommern-Rügen;DE
+592;Nordwestmecklenburg;DE
+593;Vorpommern-Greifswald;DE
+593;Vorpommern-Greifswald;DE
+593;Vorpommern-Greifswald;DE
+594;Ludwigslust-Parchim;DE
+595;Braunschweig, Kreisfreie Stadt;DE
+596;Salzgitter, Kreisfreie Stadt;DE
+597;Wolfsburg, Kreisfreie Stadt;DE
+598;Gifhorn;DE
+599;Goslar;DE
+600;Helmstedt;DE
+601;Côtes-d’Armor;FR
+601;Côtes-d’Armor;FR
+602;Finistère;FR
+602;Finistère;FR
+602;Finistère;FR
+602;Finistère;FR
+602;Finistère;FR
+603;Ille-et-Vilaine;FR
+603;Ille-et-Vilaine;FR
+604;Morbihan;FR
+604;Morbihan;FR
+604;Morbihan;FR
+604;Morbihan;FR
+604;Morbihan;FR
+604;Morbihan;FR
+604;Morbihan;FR
+604;Morbihan;FR
+604;Morbihan;FR
+604;Morbihan;FR
+605;Ahrweiler;DE
+606;Altenkirchen (Westerwald);DE
+607;Bad Kreuznach;DE
+608;Rheintal-Bodenseegebiet;AT
+609;Arr. de Bruxelles-Capitale/Arr. van Brussel-Hoofdstad;BE
+610;Arr. Antwerpen;BE
+611;Arr. Mechelen;BE
+612;Arr. Turnhout;BE
+612;Arr. Turnhout;BE
+613;Arr. Hasselt;BE
+614;Arr. Maaseik;BE
+615;Arr. Tongeren;BE
+615;Arr. Tongeren;BE
+616;Arr. Aalst;BE
+617;Arr. Dendermonde;BE
+618;Arr. Eeklo;BE
+619;Arr. Gent;BE
+620;Arr. Oudenaarde;BE
+621;Arr. Sint-Niklaas;BE
+622;Arr. Halle-Vilvoorde;BE
+623;Kardzhali;BG
+624;Bad Tölz-Wolfratshausen;DE
+625;Dachau;DE
+626;Ebersberg;DE
+627;Eichstätt;DE
+628;Erding;DE
+629;Freising;DE
+630;Fürstenfeldbruck;DE
+631;Garmisch-Partenkirchen;DE
+632;Landsberg am Lech;DE
+633;Miesbach;DE
+634;Mühldorf a. Inn;DE
+635;München, Landkreis;DE
+636;Neuburg-Schrobenhausen;DE
+637;Pfaffenhofen a. d. Ilm;DE
+638;Südburgenland;AT
+639;Northeim;DE
+639;Northeim;DE
+640;Peine;DE
+641;Wolfenbüttel;DE
+641;Wolfenbüttel;DE
+642;Göttingen;DE
+643;Diepholz;DE
+644;Hameln-Pyrmont;DE
+645;Hildesheim;DE
+646;Holzminden;DE
+647;Nienburg (Weser);DE
+648;Schaumburg;DE
+649;Region Hannover;DE
+650;Celle;DE
+651;Cuxhaven;DE
+652;Birkenfeld;DE
+653;Mayen-Koblenz;DE
+653;Mayen-Koblenz;DE
+654;Neuwied;DE
+654;Neuwied;DE
+655;Rhein-Lahn-Kreis;DE
+656;Westerwaldkreis;DE
+656;Westerwaldkreis;DE
+657;Cochem-Zell;DE
+658;Rhein-Hunsrück-Kreis;DE
+659;Trier, Kreisfreie Stadt;DE
+660;Bernkastel-Wittlich;DE
+661;Eifelkreis Bitburg-Prüm;DE
+662;Vulkaneifel;DE
+663;Dordogne;FR
+664;Vaud;CH
+664;Vaud;CH
+665;Valais;CH
+666;Genève;CH
+666;Genève;CH
+667;Bern;CH
+667;Bern;CH
+667;Bern;CH
+668;Freiburg;CH
+668;Freiburg;CH
+668;Freiburg;CH
+668;Freiburg;CH
+669;Solothurn;CH
+669;Solothurn;CH
+669;Solothurn;CH
+669;Solothurn;CH
+670;Neuchâtel;CH
+671;Heidelberg, Stadtkreis;DE
+672;Mannheim, Stadtkreis;DE
+673;Neckar-Odenwald-Kreis;DE
+674;Plzeňský kraj;CZ
+675;Karlovarský kraj;CZ
+676;Ústecký kraj;CZ
+677;Liberecký kraj;CZ
+678;Královéhradecký kraj;CZ
+679;Pardubický kraj;CZ
+680;Rosenheim, Landkreis;DE
+680;Rosenheim, Landkreis;DE
+681;Starnberg;DE
+682;Harburg;DE
+683;Lüchow-Dannenberg;DE
+684;Lüneburg, Landkreis;DE
+685;Osterholz;DE
+686;Rotenburg (Wümme);DE
+687;Heidekreis;DE
+688;Stade;DE
+689;Uelzen;DE
+689;Uelzen;DE
+690;Verden;DE
+690;Verden;DE
+691;Delmenhorst, Kreisfreie Stadt;DE
+692;Lääne-Eesti;EE
+692;Lääne-Eesti;EE
+692;Lääne-Eesti;EE
+692;Lääne-Eesti;EE
+692;Lääne-Eesti;EE
+692;Lääne-Eesti;EE
+692;Lääne-Eesti;EE
+692;Lääne-Eesti;EE
+692;Lääne-Eesti;EE
+692;Lääne-Eesti;EE
+692;Lääne-Eesti;EE
+692;Lääne-Eesti;EE
+692;Lääne-Eesti;EE
+692;Lääne-Eesti;EE
+692;Lääne-Eesti;EE
+692;Lääne-Eesti;EE
+692;Lääne-Eesti;EE
+692;Lääne-Eesti;EE
+692;Lääne-Eesti;EE
+692;Lääne-Eesti;EE
+692;Lääne-Eesti;EE
+692;Lääne-Eesti;EE
+692;Lääne-Eesti;EE
+692;Lääne-Eesti;EE
+692;Lääne-Eesti;EE
+692;Lääne-Eesti;EE
+693;Satakunta;FI
+693;Satakunta;FI
+693;Satakunta;FI
+693;Satakunta;FI
+693;Satakunta;FI
+693;Satakunta;FI
+693;Satakunta;FI
+693;Satakunta;FI
+693;Satakunta;FI
+693;Satakunta;FI
+693;Satakunta;FI
+693;Satakunta;FI
+693;Satakunta;FI
+693;Satakunta;FI
+693;Satakunta;FI
+693;Satakunta;FI
+693;Satakunta;FI
+693;Satakunta;FI
+694;Rhein-Neckar-Kreis;DE
+694;Rhein-Neckar-Kreis;DE
+695;Pforzheim, Stadtkreis;DE
+696;Calw;DE
+697;Enzkreis;DE
+698;Freudenstadt;DE
+699;Freiburg im Breisgau, Stadtkreis;DE
+700;Breisgau-Hochschwarzwald;DE
+701;Emmendingen;DE
+702;Ortenaukreis;DE
+702;Ortenaukreis;DE
+703;Rottweil;DE
+704;Schwarzwald-Baar-Kreis;DE
+705;Tuttlingen;DE
+706;Shumen;BG
+707;Targovishte;BG
+708;Burgas;BG
+709;Sliven;BG
+710;Yambol;BG
+711;Stara Zagora;BG
+711;Stara Zagora;BG
+711;Stara Zagora;BG
+712;Sofia (stolitsa);BG
+713;Kraj Vysočina;CZ
+714;Nordfriesland;DE
+714;Nordfriesland;DE
+714;Nordfriesland;DE
+714;Nordfriesland;DE
+714;Nordfriesland;DE
+714;Nordfriesland;DE
+714;Nordfriesland;DE
+714;Nordfriesland;DE
+714;Nordfriesland;DE
+714;Nordfriesland;DE
+714;Nordfriesland;DE
+714;Nordfriesland;DE
+714;Nordfriesland;DE
+714;Nordfriesland;DE
+715;Ostholstein;DE
+715;Ostholstein;DE
+716;Pinneberg;DE
+716;Pinneberg;DE
+716;Pinneberg;DE
+717;Plön;DE
+718;Rendsburg-Eckernförde;DE
+719;Schleswig-Flensburg;DE
+720;Segeberg;DE
+721;Steinburg;DE
+722;Stormarn;DE
+723;Erfurt, Kreisfreie Stadt;DE
+724;Gera, Kreisfreie Stadt;DE
+725;Gironde;FR
+725;Gironde;FR
+725;Gironde;FR
+726;Landes;FR
+727;Lot-et-Garonne;FR
+728;Pyrénées-Atlantiques;FR
+729;Corrèze;FR
+730;Trier-Saarburg;DE
+731;Frankenthal (Pfalz), Kreisfreie Stadt;DE
+732;Kaiserslautern, Kreisfreie Stadt;DE
+733;Landau in der Pfalz, Kreisfreie Stadt;DE
+733;Landau in der Pfalz, Kreisfreie Stadt;DE
+733;Landau in der Pfalz, Kreisfreie Stadt;DE
+734;Ludwigshafen am Rhein, Kreisfreie Stadt;DE
+735;Steyr-Kirchdorf;AT
+736;Traunviertel;AT
+737;Lungau;AT
+738;Calvados;FR
+738;Calvados;FR
+738;Calvados;FR
+739;Manche;FR
+739;Manche;FR
+740;Orne;FR
+741;Eure;FR
+742;Seine-Maritime;FR
+743;Nord;FR
+743;Nord;FR
+744;Emden, Kreisfreie Stadt;DE
+745;Oldenburg (Oldenburg), Kreisfreie Stadt;DE
+746;Osnabrück, Kreisfreie Stadt;DE
+747;Mainz, Kreisfreie Stadt;DE
+748;Neustadt an der Weinstraße, Kreisfreie Stadt;DE
+749;Pirmasens, Kreisfreie Stadt;DE
+750;Speyer, Kreisfreie Stadt;DE
+751;Worms, Kreisfreie Stadt;DE
+752;Zweibrücken, Kreisfreie Stadt;DE
+753;Alzey-Worms;DE
+754;Bad Dürkheim;DE
+755;Donnersbergkreis;DE
+756;Germersheim;DE
+757;Kaiserslautern, Landkreis;DE
+758;Kusel;DE
+759;Südliche Weinstraße;DE
+760;Rhein-Pfalz-Kreis;DE
+761;Mainz-Bingen;DE
+762;Pirkanmaa;FI
+763;Arr. Leuven;BE
+764;Arr. Brugge;BE
+765;Arr. Diksmuide;BE
+766;Arr. Ieper;BE
+767;Arr. Kortrijk;BE
+768;Arr. Oostende;BE
+769;Arr. Roeselare;BE
+770;Arr. Tielt;BE
+771;Arr. Veurne;BE
+772;Arr. Nivelles;BE
+773;Arr. Ath;BE
+774;Arr. Charleroi;BE
+775;Arr. Mons;BE
+776;Arr. Mouscron;BE
+776;Arr. Mouscron;BE
+777;Arr. Soignies;BE
+778;Arr. Thuin;BE
+779;Arr. Tournai;BE
+780;Arr. Huy;BE
+781;Arr. Liège;BE
+782;Pinzgau-Pongau;AT
+783;Salzburg und Umgebung;AT
+784;Außerfern;AT
+785;Innsbruck;AT
+786;Osttirol;AT
+787;Tiroler Oberland;AT
+788;Tiroler Unterland;AT
+789;Sofia;BG
+790;Blagoevgrad;BG
+791;Wilhelmshaven, Kreisfreie Stadt;DE
+792;Ammerland;DE
+793;Aurich;DE
+793;Aurich;DE
+793;Aurich;DE
+793;Aurich;DE
+793;Aurich;DE
+794;Cloppenburg;DE
+795;Emsland;DE
+796;Friesland (DE);DE
+796;Friesland (DE);DE
+797;Grafschaft Bentheim;DE
+798;Leer;DE
+798;Leer;DE
+798;Leer;DE
+799;Oldenburg, Landkreis;DE
+800;Osnabrück, Landkreis;DE
+801;Vechta;DE
+802;Wesermarsch;DE
+803;Jena, Kreisfreie Stadt;DE
+804;Suhl, Kreisfreie Stadt;DE
+805;Weimar, Kreisfreie Stadt;DE
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+806;Helsinki-Uusimaa;FI
+807;Haute-Garonne;FR
+808;Cosenza;IT
+809;Crotone;IT
+810;Catanzaro;IT
+811;Vibo Valentia;IT
+812;Reggio di Calabria;IT
+813;Trapani;IT
+813;Trapani;IT
+813;Trapani;IT
+813;Trapani;IT
+813;Trapani;IT
+813;Trapani;IT
+814;Palermo;IT
+814;Palermo;IT
+814;Palermo;IT
+815;Messina;IT
+815;Messina;IT
+815;Messina;IT
+815;Messina;IT
+815;Messina;IT
+815;Messina;IT
+815;Messina;IT
+815;Messina;IT
+816;Agrigento;IT
+816;Agrigento;IT
+816;Agrigento;IT
+817;Radomski;PL
+818;Ciechanowski;PL
+819;Płocki;PL
+819;Płocki;PL
+820;Ostrołęcki;PL
+821;Siedlecki;PL
+822;Żyrardowski;PL
+822;Żyrardowski;PL
+822;Żyrardowski;PL
+823;Tyski;PL
+824;Rhône;FR
+825;Savoie;FR
+826;Haute-Savoie;FR
+827;Alpes-de-Haute-Provence;FR
+828;Hautes-Alpes;FR
+829;Alpes-Maritimes;FR
+829;Alpes-Maritimes;FR
+830;Somogy;HU
+830;Somogy;HU
+831;Terni;IT
+831;Terni;IT
+832;Pesaro e Urbino;IT
+833;Ancona;IT
+834;Macerata;IT
+835;Ascoli Piceno;IT
+836;Fermo;IT
+837;Viterbo;IT
+837;Viterbo;IT
+838;Rieti;IT
+839;Roma;IT
+840;Latina;IT
+840;Latina;IT
+840;Latina;IT
+840;Latina;IT
+840;Latina;IT
+840;Latina;IT
+841;Pilski;PL
+842;Tolna;HU
+843;Borsod-Abaúj-Zemplén;HU
+844;Heves;HU
+845;Nógrád;HU
+846;Hajdú-Bihar;HU
+847;Jász-Nagykun-Szolnok;HU
+848;La Spezia;IT
+849;Varese;IT
+850;Como;IT
+850;Como;IT
+851;Lecco;IT
+852;Splitsko-dalmatinska županija;HR
+852;Splitsko-dalmatinska županija;HR
+852;Splitsko-dalmatinska županija;HR
+852;Splitsko-dalmatinska županija;HR
+852;Splitsko-dalmatinska županija;HR
+852;Splitsko-dalmatinska županija;HR
+852;Splitsko-dalmatinska županija;HR
+852;Splitsko-dalmatinska županija;HR
+852;Splitsko-dalmatinska županija;HR
+852;Splitsko-dalmatinska županija;HR
+852;Splitsko-dalmatinska županija;HR
+852;Splitsko-dalmatinska županija;HR
+852;Splitsko-dalmatinska županija;HR
+853;Istarska županija;HR
+853;Istarska županija;HR
+853;Istarska županija;HR
+854;Dubrovačko-neretvanska županija;HR
+854;Dubrovačko-neretvanska županija;HR
+854;Dubrovačko-neretvanska županija;HR
+854;Dubrovačko-neretvanska županija;HR
+854;Dubrovačko-neretvanska županija;HR
+854;Dubrovačko-neretvanska županija;HR
+854;Dubrovačko-neretvanska županija;HR
+854;Dubrovačko-neretvanska županija;HR
+854;Dubrovačko-neretvanska županija;HR
+854;Dubrovačko-neretvanska županija;HR
+854;Dubrovačko-neretvanska županija;HR
+854;Dubrovačko-neretvanska županija;HR
+854;Dubrovačko-neretvanska županija;HR
+854;Dubrovačko-neretvanska županija;HR
+854;Dubrovačko-neretvanska županija;HR
+855;Grad Zagreb;HR
+856;Zagrebačka županija;HR
+857;Krapinsko-zagorska županija;HR
+858;Varaždinska županija;HR
+859;Koniński;PL
+860;Miasto Poznań;PL
+861;Kaliski;PL
+862;Leszczyński;PL
+863;Alto Minho;PT
+864;Cávado;PT
+865;Ave;PT
+866;Área Metropolitana do Porto;PT
+867;Sondrio;IT
+868;Bergamo;IT
+869;Brescia;IT
+870;Pavia;IT
+871;Lodi;IT
+872;Cremona;IT
+873;Mantova;IT
+874;Belluno;IT
+875;Treviso;IT
+876;Caltanissetta;IT
+876;Caltanissetta;IT
+877;Enna;IT
+877;Enna;IT
+878;Catania;IT
+879;Ragusa;IT
+880;Siracusa;IT
+880;Siracusa;IT
+880;Siracusa;IT
+881;Sassari;IT
+881;Sassari;IT
+881;Sassari;IT
+882;Nuoro;IT
+883;Cagliari;IT
+883;Cagliari;IT
+884;Alto Tâmega;PT
+885;Tâmega e Sousa;PT
+886;Douro;PT
+886;Douro;PT
+887;Terras de Trás-os-Montes;PT
+888;Algarve;PT
+888;Algarve;PT
+888;Algarve;PT
+888;Algarve;PT
+889;Oeste;PT
+889;Oeste;PT
+890;Região de Aveiro;PT
+891;Poznański;PL
+892;Miasto Szczecin;PL
+892;Miasto Szczecin;PL
+893;Venezia;IT
+893;Venezia;IT
+893;Venezia;IT
+893;Venezia;IT
+893;Venezia;IT
+893;Venezia;IT
+893;Venezia;IT
+893;Venezia;IT
+893;Venezia;IT
+894;Padova;IT
+895;Rovigo;IT
+895;Rovigo;IT
+895;Rovigo;IT
+896;Pordenone;IT
+897;Udine;IT
+897;Udine;IT
+897;Udine;IT
+898;Gorizia;IT
+898;Gorizia;IT
+898;Gorizia;IT
+898;Gorizia;IT
+898;Gorizia;IT
+898;Gorizia;IT
+898;Gorizia;IT
+899;Trieste;IT
+900;Bouches-du-Rhône;FR
+900;Bouches-du-Rhône;FR
+900;Bouches-du-Rhône;FR
+900;Bouches-du-Rhône;FR
+901;Frosinone;IT
+902;Liechtenstein;LI
+903;Vilniaus apskritis;LT
+903;Vilniaus apskritis;LT
+904;Alytaus apskritis;LT
+905;Kauno apskritis;LT
+906;Klaipėdos apskritis;LT
+907;Marijampolės apskritis;LT
+908;Koszaliński;PL
+909;Szczecinecko-pyrzycki;PL
+910;Szczeciński;PL
+911;Região de Coimbra;PT
+912;Região de Leiria;PT
+913;Viseu Dão Lafões;PT
+914;Var;FR
+914;Var;FR
+914;Var;FR
+914;Var;FR
+914;Var;FR
+914;Var;FR
+915;Vaucluse;FR
+915;Vaucluse;FR
+916;Corse-du-Sud;FR
+916;Corse-du-Sud;FR
+916;Corse-du-Sud;FR
+917;Haute-Corse;FR
+918;Szabolcs-Szatmár-Bereg;HU
+919;Koprivničko-križevačka županija;HR
+920;Međimurska županija;HR
+921;Bjelovarsko-bilogorska županija;HR
+922;Virovitičko-podravska županija;HR
+922;Virovitičko-podravska županija;HR
+923;Požeško-slavonska županija;HR
+924;Brodsko-posavska županija;HR
+925;Osječko-baranjska županija;HR
+926;Vukovarsko-srijemska županija;HR
+927;Karlovačka županija;HR
+928;Sisačko-moslavačka županija;HR
+929;Beira Baixa;PT
+930;Médio Tejo;PT
+931;Beiras e Serra da Estrela;PT
+932;Área Metropolitana de Lisboa;PT
+932;Área Metropolitana de Lisboa;PT
+933;Alentejo Litoral;PT
+934;Baixo Alentejo;PT
+935;Gorzowski;PL
+936;Zielonogórski;PL
+937;Bács-Kiskun;HU
+938;Békés;HU
+939;Csongrád;HU
+940;Border;IE
+940;Border;IE
+940;Border;IE
+940;Border;IE
+940;Border;IE
+940;Border;IE
+940;Border;IE
+940;Border;IE
+940;Border;IE
+940;Border;IE
+940;Border;IE
+940;Border;IE
+940;Border;IE
+940;Border;IE
+941;Milano;IT
+941;Milano;IT
+942;Monza e della Brianza;IT
+943;Miasto Wrocław;PL
+944;Jeleniogórski;PL
+945;Legnicko-głogowski;PL
+946;Wałbrzyski;PL
+947;Wrocławski;PL
+948;Bihor;RO
+949;Bistriţa-Năsăud;RO
+950;L'Aquila;IT
+951;Teramo;IT
+952;Pescara;IT
+953;Chieti;IT
+954;Isernia;IT
+955;Campobasso;IT
+956;Caserta;IT
+957;Benevento;IT
+957;Benevento;IT
+958;Napoli;IT
+958;Napoli;IT
+958;Napoli;IT
+958;Napoli;IT
+958;Napoli;IT
+959;Piacenza;IT
+960;Parma;IT
+961;Cluj;RO
+962;Maramureş;RO
+963;Satu Mare;RO
+964;Sălaj;RO
+965;Alba;RO
+966;Nyski;PL
+967;Opolski;PL
+968;Reggio nell'Emilia;IT
+969;Modena;IT
+970;Bologna;IT
+971;Ferrara;IT
+972;Ravenna;IT
+973;Forlì-Cesena;IT
+974;Rimini;IT
+975;Massa-Carrara;IT
+976;Lucca;IT
+977;Bydgosko-toruński;PL
+978;Grudziądzki;PL
+979;Inowrocławski;PL
+980;Świecki;PL
+981;Włocławski;PL
+982;Lezíria do Tejo;PT
+983;Alto Alentejo;PT
+984;Alentejo Central;PT
+985;Primorsko-goranska županija;HR
+985;Primorsko-goranska županija;HR
+985;Primorsko-goranska županija;HR
+985;Primorsko-goranska županija;HR
+985;Primorsko-goranska županija;HR
+985;Primorsko-goranska županija;HR
+985;Primorsko-goranska županija;HR
+985;Primorsko-goranska županija;HR
+985;Primorsko-goranska županija;HR
+985;Primorsko-goranska županija;HR
+985;Primorsko-goranska županija;HR
+985;Primorsko-goranska županija;HR
+985;Primorsko-goranska županija;HR
+985;Primorsko-goranska županija;HR
+985;Primorsko-goranska županija;HR
+985;Primorsko-goranska županija;HR
+985;Primorsko-goranska županija;HR
+986;Mid-West;IE
+986;Mid-West;IE
+986;Mid-West;IE
+986;Mid-West;IE
+986;Mid-West;IE
+986;Mid-West;IE
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+987;Nordland;NO
+988;Elbląski;PL
+989;West;IE
+989;West;IE
+989;West;IE
+989;West;IE
+989;West;IE
+989;West;IE
+989;West;IE
+989;West;IE
+989;West;IE
+989;West;IE
+989;West;IE
+989;West;IE
+989;West;IE
+989;West;IE
+989;West;IE
+989;West;IE
+989;West;IE
+989;West;IE
+989;West;IE
+989;West;IE
+989;West;IE
+989;West;IE
+989;West;IE
+989;West;IE
+989;West;IE
+990;South-East;IE
+990;South-East;IE
+990;South-East;IE
+991;Avellino;IT
+992;Salerno;IT
+993;Taranto;IT
+993;Taranto;IT
+994;Brindisi;IT
+995;Lecce;IT
+996;Foggia;IT
+996;Foggia;IT
+996;Foggia;IT
+997;Bari;IT
+998;Barletta-Andria-Trani;IT
+999;Potenza;IT
+1000;Matera;IT
+1000;Matera;IT
+1001;Pistoia;IT
+1002;Firenze;IT
+1003;Prato;IT
+1004;Livorno;IT
+1004;Livorno;IT
+1004;Livorno;IT
+1004;Livorno;IT
+1004;Livorno;IT
+1004;Livorno;IT
+1004;Livorno;IT
+1005;Pisa;IT
+1006;Arezzo;IT
+1006;Arezzo;IT
+1007;Siena;IT
+1008;Grosseto;IT
+1008;Grosseto;IT
+1008;Grosseto;IT
+1009;Perugia;IT
+1009;Perugia;IT
+1010;Ličko-senjska županija;HR
+1010;Ličko-senjska županija;HR
+1010;Ličko-senjska županija;HR
+1011;Zadarska županija;HR
+1011;Zadarska županija;HR
+1011;Zadarska županija;HR
+1011;Zadarska županija;HR
+1011;Zadarska županija;HR
+1011;Zadarska županija;HR
+1011;Zadarska županija;HR
+1011;Zadarska županija;HR
+1011;Zadarska županija;HR
+1011;Zadarska županija;HR
+1011;Zadarska županija;HR
+1011;Zadarska županija;HR
+1011;Zadarska županija;HR
+1011;Zadarska županija;HR
+1011;Zadarska županija;HR
+1011;Zadarska županija;HR
+1011;Zadarska županija;HR
+1011;Zadarska županija;HR
+1011;Zadarska županija;HR
+1011;Zadarska županija;HR
+1011;Zadarska županija;HR
+1011;Zadarska županija;HR
+1011;Zadarska županija;HR
+1011;Zadarska županija;HR
+1011;Zadarska županija;HR
+1011;Zadarska županija;HR
+1011;Zadarska županija;HR
+1011;Zadarska županija;HR
+1012;Šibensko-kninska županija;HR
+1012;Šibensko-kninska županija;HR
+1012;Šibensko-kninska županija;HR
+1012;Šibensko-kninska županija;HR
+1012;Šibensko-kninska županija;HR
+1012;Šibensko-kninska županija;HR
+1012;Šibensko-kninska županija;HR
+1012;Šibensko-kninska županija;HR
+1012;Šibensko-kninska županija;HR
+1012;Šibensko-kninska županija;HR
+1012;Šibensko-kninska županija;HR
+1012;Šibensko-kninska županija;HR
+1012;Šibensko-kninska županija;HR
+1012;Šibensko-kninska županija;HR
+1012;Šibensko-kninska županija;HR
+1012;Šibensko-kninska županija;HR
+1012;Šibensko-kninska županija;HR
+1012;Šibensko-kninska županija;HR
+1012;Šibensko-kninska županija;HR
+1012;Šibensko-kninska županija;HR
+1013;Olsztyński;PL
+1014;Ełcki;PL
+1015;Trójmiejski;PL
+1016;Gdański;PL
+1016;Gdański;PL
+1016;Gdański;PL
+1017;Słupski;PL
+1018;Chojnicki;PL
+1019;Starogardzki;PL
+1020;Braşov;RO
+1020;Braşov;RO
+1021;South-West;IE
+1021;South-West;IE
+1021;South-West;IE
+1021;South-West;IE
+1021;South-West;IE
+1021;South-West;IE
+1021;South-West;IE
+1021;South-West;IE
+1021;South-West;IE
+1021;South-West;IE
+1021;South-West;IE
+1021;South-West;IE
+1021;South-West;IE
+1021;South-West;IE
+1021;South-West;IE
+1021;South-West;IE
+1021;South-West;IE
+1021;South-West;IE
+1022;Dublin;IE
+1022;Dublin;IE
+1022;Dublin;IE
+1022;Dublin;IE
+1023;Mid-East;IE
+1024;Midland;IE
+1025;Höfuðborgarsvæði;IS
+1025;Höfuðborgarsvæði;IS
+1025;Höfuðborgarsvæði;IS
+1025;Höfuðborgarsvæði;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1026;Landsbyggð;IS
+1027;Torino;IT
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1028;Trøndelag;NO
+1029;Covasna;RO
+1030;Harghita;RO
+1031;Mureş;RO
+1032;Sibiu;RO
+1033;Bacău;RO
+1034;Botoşani;RO
+1035;Loire;FR
+1036;Nowosądecki;PL
+1037;Nowotarski;PL
+1038;Oświęcimski;PL
+1039;Częstochowski;PL
+1040;Bielski;PL
+1041;Rybnicki;PL
+1042;Bytomski;PL
+1043;Gliwicki;PL
+1044;Katowicki;PL
+1045;Sosnowiecki;PL
+1045;Sosnowiecki;PL
+1046;Warszawski zachodni;PL
+1046;Warszawski zachodni;PL
+1047;Buskerud;NO
+1048;Vestfold;NO
+1048;Vestfold;NO
+1048;Vestfold;NO
+1048;Vestfold;NO
+1048;Vestfold;NO
+1048;Vestfold;NO
+1048;Vestfold;NO
+1048;Vestfold;NO
+1048;Vestfold;NO
+1048;Vestfold;NO
+1048;Vestfold;NO
+1048;Vestfold;NO
+1048;Vestfold;NO
+1048;Vestfold;NO
+1048;Vestfold;NO
+1048;Vestfold;NO
+1048;Vestfold;NO
+1048;Vestfold;NO
+1048;Vestfold;NO
+1049;Telemark;NO
+1049;Telemark;NO
+1049;Telemark;NO
+1049;Telemark;NO
+1049;Telemark;NO
+1049;Telemark;NO
+1049;Telemark;NO
+1049;Telemark;NO
+1049;Telemark;NO
+1049;Telemark;NO
+1050;Aust-Agder;NO
+1050;Aust-Agder;NO
+1050;Aust-Agder;NO
+1050;Aust-Agder;NO
+1050;Aust-Agder;NO
+1050;Aust-Agder;NO
+1050;Aust-Agder;NO
+1050;Aust-Agder;NO
+1051;Sinop;TR
+1051;Sinop;TR
+1052;Samsun;TR
+1053;Tokat;TR
+1054;Çorum;TR
+1055;Amasya;TR
+1056;Trabzon;TR
+1057;Ordu;TR
+1058;Giresun;TR
+1059;Aberdeen City and Aberdeenshire;UK
+1060;Caithness & Sutherland and Ross & Cromarty;UK
+1060;Caithness & Sutherland and Ross & Cromarty;UK
+1060;Caithness & Sutherland and Ross & Cromarty;UK
+1060;Caithness & Sutherland and Ross & Cromarty;UK
+1060;Caithness & Sutherland and Ross & Cromarty;UK
+1060;Caithness & Sutherland and Ross & Cromarty;UK
+1060;Caithness & Sutherland and Ross & Cromarty;UK
+1060;Caithness & Sutherland and Ross & Cromarty;UK
+1060;Caithness & Sutherland and Ross & Cromarty;UK
+1060;Caithness & Sutherland and Ross & Cromarty;UK
+1060;Caithness & Sutherland and Ross & Cromarty;UK
+1060;Caithness & Sutherland and Ross & Cromarty;UK
+1060;Caithness & Sutherland and Ross & Cromarty;UK
+1060;Caithness & Sutherland and Ross & Cromarty;UK
+1060;Caithness & Sutherland and Ross & Cromarty;UK
+1061;Inverness & Nairn and Moray, Badenoch & Strathspey;UK
+1062;Angus and Dundee City;UK
+1063;Iaşi;RO
+1064;Neamţ;RO
+1065;Koroška;SI
+1066;Savinjska;SI
+1067;Zasavska;SI
+1068;Posavska;SI
+1069;Jugovzhodna Slovenija;SI
+1070;Primorsko-notranjska;SI
+1071;Osrednjeslovenska;SI
+1072;Ankara;TR
+1073;Vest-Agder;NO
+1073;Vest-Agder;NO
+1073;Vest-Agder;NO
+1073;Vest-Agder;NO
+1073;Vest-Agder;NO
+1073;Vest-Agder;NO
+1073;Vest-Agder;NO
+1073;Vest-Agder;NO
+1073;Vest-Agder;NO
+1073;Vest-Agder;NO
+1073;Vest-Agder;NO
+1073;Vest-Agder;NO
+1073;Vest-Agder;NO
+1073;Vest-Agder;NO
+1073;Vest-Agder;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1074;Rogaland;NO
+1075;Rize;TR
+1076;Artvin;TR
+1077;Gümüshane;TR
+1078;Erzurum;TR
+1079;Erzincan;TR
+1080;Bayburt;TR
+1081;Agri;TR
+1082;Kars;TR
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1083;Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute;UK
+1084;Konya;TR
+1085;Karaman;TR
+1086;Antalya;TR
+1086;Antalya;TR
+1086;Antalya;TR
+1087;Isparta;TR
+1088;Zapadnobačka oblast;RS
+1089;Južnobanatska oblast;RS
+1090;Igdir;TR
+1091;Ardahan;TR
+1092;Malatya;TR
+1093;Elazig;TR
+1094;Bingöl;TR
+1095;Tunceli;TR
+1096;Van;TR
+1097;Mus;TR
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1098;Na h-Eileanan Siar (Western Isles);UK
+1099;Južnobačka oblast;RS
+1100;Severnobanatska oblast;RS
+1101;Severnobačka oblast;RS
+1102;Srednjobanatska oblast;RS
+1103;Sremska oblast;RS
+1104;Zlatiborska oblast;RS
+1105;Kolubarska oblast;RS
+1106;Mačvanska oblast;RS
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1107;Hordaland;NO
+1108;Bitlis;TR
+1109;Hakkari;TR
+1110;Gaziantep;TR
+1111;Adiyaman;TR
+1112;Kilis;TR
+1113;Sanliurfa;TR
+1114;Diyarbakir;TR
+1115;Mardin;TR
+1116;Batman;TR
+1117;Orkney Islands;UK
+1117;Orkney Islands;UK
+1117;Orkney Islands;UK
+1117;Orkney Islands;UK
+1117;Orkney Islands;UK
+1117;Orkney Islands;UK
+1117;Orkney Islands;UK
+1117;Orkney Islands;UK
+1117;Orkney Islands;UK
+1117;Orkney Islands;UK
+1117;Orkney Islands;UK
+1117;Orkney Islands;UK
+1117;Orkney Islands;UK
+1117;Orkney Islands;UK
+1117;Orkney Islands;UK
+1117;Orkney Islands;UK
+1117;Orkney Islands;UK
+1117;Orkney Islands;UK
+1117;Orkney Islands;UK
+1117;Orkney Islands;UK
+1117;Orkney Islands;UK
+1117;Orkney Islands;UK
+1117;Orkney Islands;UK
+1117;Orkney Islands;UK
+1117;Orkney Islands;UK
+1117;Orkney Islands;UK
+1117;Orkney Islands;UK
+1117;Orkney Islands;UK
+1117;Orkney Islands;UK
+1117;Orkney Islands;UK
+1118;Suceava;RO
+1119;Vaslui;RO
+1120;Brăila;RO
+1121;Kalmar län;SE
+1121;Kalmar län;SE
+1121;Kalmar län;SE
+1121;Kalmar län;SE
+1121;Kalmar län;SE
+1121;Kalmar län;SE
+1121;Kalmar län;SE
+1121;Kalmar län;SE
+1121;Kalmar län;SE
+1121;Kalmar län;SE
+1121;Kalmar län;SE
+1121;Kalmar län;SE
+1121;Kalmar län;SE
+1121;Kalmar län;SE
+1121;Kalmar län;SE
+1121;Kalmar län;SE
+1121;Kalmar län;SE
+1121;Kalmar län;SE
+1121;Kalmar län;SE
+1121;Kalmar län;SE
+1121;Kalmar län;SE
+1121;Kalmar län;SE
+1121;Kalmar län;SE
+1121;Kalmar län;SE
+1121;Kalmar län;SE
+1121;Kalmar län;SE
+1121;Kalmar län;SE
+1121;Kalmar län;SE
+1122;Gotlands län;SE
+1122;Gotlands län;SE
+1122;Gotlands län;SE
+1122;Gotlands län;SE
+1122;Gotlands län;SE
+1122;Gotlands län;SE
+1122;Gotlands län;SE
+1122;Gotlands län;SE
+1122;Gotlands län;SE
+1122;Gotlands län;SE
+1122;Gotlands län;SE
+1122;Gotlands län;SE
+1122;Gotlands län;SE
+1123;Blekinge län;SE
+1123;Blekinge län;SE
+1123;Blekinge län;SE
+1123;Blekinge län;SE
+1123;Blekinge län;SE
+1123;Blekinge län;SE
+1123;Blekinge län;SE
+1123;Blekinge län;SE
+1123;Blekinge län;SE
+1123;Blekinge län;SE
+1123;Blekinge län;SE
+1123;Blekinge län;SE
+1123;Blekinge län;SE
+1123;Blekinge län;SE
+1123;Blekinge län;SE
+1123;Blekinge län;SE
+1124;Chełmsko-zamojski;PL
+1125;Lubelski;PL
+1126;Puławski;PL
+1127;Krośnieński;PL
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1128;Møre og Romsdal;NO
+1129;Sirnak;TR
+1130;Siirt;TR
+1131;Hartlepool and Stockton-on-Tees;UK
+1132;South Teesside;UK
+1133;Darlington;UK
+1134;Durham CC;UK
+1135;Northumberland;UK
+1135;Northumberland;UK
+1135;Northumberland;UK
+1136;Tyneside;UK
+1137;Sunderland;UK
+1138;West Cumbria;UK
+1138;West Cumbria;UK
+1138;West Cumbria;UK
+1138;West Cumbria;UK
+1139;East Cumbria;UK
+1140;Manchester;UK
+1141;Greater Manchester South West;UK
+1142;Greater Manchester South East;UK
+1143;Buzău;RO
+1144;Constanţa;RO
+1145;Nišavska oblast;RS
+1146;Pirotska oblast;RS
+1147;Podunavska oblast;RS
+1148;Pčinjska oblast;RS
+1149;Toplička oblast;RS
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1150;Stockholms län;SE
+1151;Gorenjska;SI
+1152;Goriška;SI
+1153;Obalno-kraška;SI
+1154;Bratislavský kraj;SK
+1155;Trnavský kraj;SK
+1156;Trenčiansky kraj;SK
+1157;Nitriansky kraj;SK
+1158;Žilinský kraj;SK
+1159;Banskobystrický kraj;SK
+1160;Rzeszowski;PL
+1161;Tarnobrzeski;PL
+1162;Białostocki;PL
+1163;Łomżyński;PL
+1164;Suwalski;PL
+1165;Miasto Warszawa;PL
+1166;Warszawski wschodni;PL
+1167;Tarnowski;PL
+1168;Greater Manchester North West;UK
+1169;Greater Manchester North East;UK
+1170;Blackburn with Darwen;UK
+1171;Blackpool;UK
+1172;Lancaster and Wyre;UK
+1173;Mid Lancashire;UK
+1174;East Lancashire;UK
+1175;Chorley and West Lancashire;UK
+1176;Warrington;UK
+1177;Cheshire East;UK
+1178;Cheshire West and Chester;UK
+1179;East Merseyside;UK
+1180;Liverpool;UK
+1181;Sefton;UK
+1182;Wirral;UK
+1183;Kingston upon Hull, City of;UK
+1184;East Riding of Yorkshire;UK
+1185;North and North East Lincolnshire;UK
+1186;Budapest;HU
+1187;Pest;HU
+1188;Fejér;HU
+1189;Komárom-Esztergom;HU
+1190;Veszprém;HU
+1191;Győr-Moson-Sopron;HU
+1192;Vas;HU
+1193;Zala;HU
+1194;Baranya;HU
+1195;York;UK
+1196;North Yorkshire CC;UK
+1197;Barnsley, Doncaster and Rotherham;UK
+1198;Sheffield;UK
+1199;Bradford;UK
+1200;Leeds;UK
+1201;Calderdale and Kirklees;UK
+1202;Wakefield;UK
+1203;Derby;UK
+1204;East Derbyshire;UK
+1205;South and West Derbyshire;UK
+1206;Nottingham;UK
+1207;North Nottinghamshire;UK
+1208;South Nottinghamshire;UK
+1209;Leicester;UK
+1210;Värmlands län;SE
+1211;Dalarnas län;SE
+1212;Gävleborgs län;SE
+1212;Gävleborgs län;SE
+1212;Gävleborgs län;SE
+1212;Gävleborgs län;SE
+1212;Gävleborgs län;SE
+1212;Gävleborgs län;SE
+1212;Gävleborgs län;SE
+1212;Gävleborgs län;SE
+1212;Gävleborgs län;SE
+1212;Gävleborgs län;SE
+1212;Gävleborgs län;SE
+1212;Gävleborgs län;SE
+1212;Gävleborgs län;SE
+1212;Gävleborgs län;SE
+1212;Gävleborgs län;SE
+1212;Gävleborgs län;SE
+1212;Gävleborgs län;SE
+1212;Gävleborgs län;SE
+1212;Gävleborgs län;SE
+1212;Gävleborgs län;SE
+1212;Gävleborgs län;SE
+1212;Gävleborgs län;SE
+1212;Gävleborgs län;SE
+1212;Gävleborgs län;SE
+1212;Gävleborgs län;SE
+1212;Gävleborgs län;SE
+1213;Jämtlands län;SE
+1213;Jämtlands län;SE
+1214;Vercelli;IT
+1214;Vercelli;IT
+1215;Biella;IT
+1216;Verbano-Cusio-Ossola;IT
+1217;Novara;IT
+1218;Cuneo;IT
+1219;Asti;IT
+1220;Alessandria;IT
+1221;Valle d'Aosta/Vallée d'Aoste;IT
+1222;Imperia;IT
+1223;Savona;IT
+1224;Genova;IT
+1225;Leicestershire CC and Rutland;UK
+1226;West Northamptonshire;UK
+1227;North Northamptonshire;UK
+1228;Lincolnshire;UK
+1229;Herefordshire, County of;UK
+1230;Worcestershire;UK
+1231;Warwickshire;UK
+1232;Telford and Wrekin;UK
+1233;Shropshire CC;UK
+1234;Stoke-on-Trent;UK
+1235;Clackmannanshire and Fife;UK
+1236;Balikesir;TR
+1236;Balikesir;TR
+1236;Balikesir;TR
+1236;Balikesir;TR
+1236;Balikesir;TR
+1236;Balikesir;TR
+1236;Balikesir;TR
+1236;Balikesir;TR
+1236;Balikesir;TR
+1236;Balikesir;TR
+1236;Balikesir;TR
+1237;Çanakkale;TR
+1237;Çanakkale;TR
+1237;Çanakkale;TR
+1237;Çanakkale;TR
+1237;Çanakkale;TR
+1238;Izmir;TR
+1238;Izmir;TR
+1238;Izmir;TR
+1238;Izmir;TR
+1238;Izmir;TR
+1238;Izmir;TR
+1239;Aydin;TR
+1239;Aydin;TR
+1240;Galaţi;RO
+1241;Oristano;IT
+1241;Oristano;IT
+1242;Olbia-Tempio;IT
+1242;Olbia-Tempio;IT
+1242;Olbia-Tempio;IT
+1242;Olbia-Tempio;IT
+1242;Olbia-Tempio;IT
+1242;Olbia-Tempio;IT
+1242;Olbia-Tempio;IT
+1242;Olbia-Tempio;IT
+1242;Olbia-Tempio;IT
+1243;Ogliastra;IT
+1244;Medio Campidano;IT
+1245;Carbonia-Iglesias;IT
+1245;Carbonia-Iglesias;IT
+1245;Carbonia-Iglesias;IT
+1246;Bolzano-Bozen;IT
+1247;Trento;IT
+1248;Verona;IT
+1249;Vicenza;IT
+1250;Shetland Islands;UK
+1250;Shetland Islands;UK
+1250;Shetland Islands;UK
+1250;Shetland Islands;UK
+1250;Shetland Islands;UK
+1250;Shetland Islands;UK
+1250;Shetland Islands;UK
+1250;Shetland Islands;UK
+1250;Shetland Islands;UK
+1250;Shetland Islands;UK
+1250;Shetland Islands;UK
+1250;Shetland Islands;UK
+1250;Shetland Islands;UK
+1250;Shetland Islands;UK
+1250;Shetland Islands;UK
+1250;Shetland Islands;UK
+1250;Shetland Islands;UK
+1250;Shetland Islands;UK
+1250;Shetland Islands;UK
+1250;Shetland Islands;UK
+1250;Shetland Islands;UK
+1250;Shetland Islands;UK
+1250;Shetland Islands;UK
+1250;Shetland Islands;UK
+1250;Shetland Islands;UK
+1250;Shetland Islands;UK
+1250;Shetland Islands;UK
+1250;Shetland Islands;UK
+1250;Shetland Islands;UK
+1250;Shetland Islands;UK
+1250;Shetland Islands;UK
+1251;East Lothian and Midlothian;UK
+1252;Edinburgh, City of;UK
+1253;Falkirk;UK
+1254;Perth & Kinross and Stirling;UK
+1255;Tulcea;RO
+1255;Tulcea;RO
+1255;Tulcea;RO
+1256;Vrancea;RO
+1257;Argeş;RO
+1258;Călăraşi;RO
+1259;Dâmboviţa;RO
+1260;Giurgiu;RO
+1261;Denizli;TR
+1262;Panevėžio apskritis;LT
+1263;Šiaulių apskritis;LT
+1264;Tauragės apskritis;LT
+1265;Telšių apskritis;LT
+1266;Utenos apskritis;LT
+1267;Luxembourg;LU
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1268;Troms;NO
+1269;Miasto Łódź;PL
+1270;Łódzki;PL
+1271;Staffordshire CC;UK
+1272;Birmingham;UK
+1273;Solihull;UK
+1274;Coventry;UK
+1275;Dudley;UK
+1276;Sandwell;UK
+1277;Walsall;UK
+1278;Wolverhampton;UK
+1279;Peterborough;UK
+1280;Cambridgeshire CC;UK
+1281;Suffolk;UK
+1281;Suffolk;UK
+1282;Norwich and East Norfolk;UK
+1283;North and West Norfolk;UK
+1284;Breckland and South Norfolk;UK
+1285;Luton;UK
+1286;Hertfordshire;UK
+1287;Västernorrlands län;SE
+1287;Västernorrlands län;SE
+1287;Västernorrlands län;SE
+1287;Västernorrlands län;SE
+1287;Västernorrlands län;SE
+1287;Västernorrlands län;SE
+1287;Västernorrlands län;SE
+1287;Västernorrlands län;SE
+1287;Västernorrlands län;SE
+1287;Västernorrlands län;SE
+1287;Västernorrlands län;SE
+1287;Västernorrlands län;SE
+1287;Västernorrlands län;SE
+1287;Västernorrlands län;SE
+1287;Västernorrlands län;SE
+1287;Västernorrlands län;SE
+1287;Västernorrlands län;SE
+1287;Västernorrlands län;SE
+1287;Västernorrlands län;SE
+1287;Västernorrlands län;SE
+1287;Västernorrlands län;SE
+1287;Västernorrlands län;SE
+1287;Västernorrlands län;SE
+1287;Västernorrlands län;SE
+1287;Västernorrlands län;SE
+1287;Västernorrlands län;SE
+1287;Västernorrlands län;SE
+1287;Västernorrlands län;SE
+1287;Västernorrlands län;SE
+1287;Västernorrlands län;SE
+1288;Västerbottens län;SE
+1288;Västerbottens län;SE
+1288;Västerbottens län;SE
+1288;Västerbottens län;SE
+1288;Västerbottens län;SE
+1288;Västerbottens län;SE
+1288;Västerbottens län;SE
+1288;Västerbottens län;SE
+1288;Västerbottens län;SE
+1288;Västerbottens län;SE
+1288;Västerbottens län;SE
+1288;Västerbottens län;SE
+1288;Västerbottens län;SE
+1288;Västerbottens län;SE
+1288;Västerbottens län;SE
+1288;Västerbottens län;SE
+1288;Västerbottens län;SE
+1288;Västerbottens län;SE
+1288;Västerbottens län;SE
+1288;Västerbottens län;SE
+1288;Västerbottens län;SE
+1288;Västerbottens län;SE
+1289;Kurzeme;LV
+1290;Latgale;LV
+1291;Rīga;LV
+1292;Pierīga;LV
+1293;Vidzeme;LV
+1294;West Lothian;UK
+1295;East Dunbartonshire, West Dunbartonshire and Helensburgh & Lomond;UK
+1296;Glasgow City;UK
+1297;Inverclyde, East Renfrewshire and Renfrewshire;UK
+1298;North Lanarkshire;UK
+1299;Scottish Borders;UK
+1300;Dumfries & Galloway;UK
+1301;East Ayrshire and North Ayrshire mainland;UK
+1302;South Ayrshire;UK
+1302;South Ayrshire;UK
+1303;South Lanarkshire;UK
+1304;Belfast;UK
+1305;Armagh City, Banbridge and Craigavon;UK
+1306;Bedford;UK
+1307;Mugla;TR
+1307;Mugla;TR
+1307;Mugla;TR
+1307;Mugla;TR
+1307;Mugla;TR
+1307;Mugla;TR
+1307;Mugla;TR
+1308;Manisa;TR
+1309;Afyon;TR
+1310;Kütahya;TR
+1311;Usak;TR
+1312;Ialomiţa;RO
+1313;Zemgale;LV
+1314;Crna Gora;ME
+1315;Vardarski;MK
+1316;Istočen;MK
+1317;Jugozapaden;MK
+1318;Jugoistočen;MK
+1319;Пелагониски;MK
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1320;Sogn og Fjordane;NO
+1321;Central Bedfordshire;UK
+1322;Southend-on-Sea;UK
+1323;Thurrock;UK
+1324;Essex Haven Gateway;UK
+1325;West Essex;UK
+1326;Heart of Essex;UK
+1326;Heart of Essex;UK
+1327;Essex Thames Gateway;UK
+1328;Camden and City of London;UK
+1329;Westminster;UK
+1330;Kensington & Chelsea and Hammersmith & Fulham;UK
+1331;Wandsworth;UK
+1332;Hackney and Newham;UK
+1333;Tower Hamlets;UK
+1334;Haringey and Islington;UK
+1335;Lewisham and Southwark;UK
+1336;Lambeth;UK
+1337;Bexley and Greenwich;UK
+1338;Barking & Dagenham and Havering;UK
+1339;Redbridge and Waltham Forest;UK
+1340;Enfield;UK
+1341;Bromley;UK
+1342;Croydon;UK
+1343;Merton, Kingston upon Thames and Sutton;UK
+1344;Barnet;UK
+1345;Brent;UK
+1346;Ealing;UK
+1347;Harrow and Hillingdon;UK
+1348;Hounslow and Richmond upon Thames;UK
+1349;Newry, Mourne and Down;UK
+1350;Prahova;RO
+1351;Teleorman;RO
+1351;Teleorman;RO
+1352;Bucureşti;RO
+1353;Ilfov;RO
+1354;Dolj;RO
+1355;Gorj;RO
+1356;Mehedinţi;RO
+1357;Pološki;MK
+1358;Severoistočen;MK
+1359;Skopski;MK
+1360;Malta;MT
+1361;Gozo and Comino/Għawdex u Kemmuna;MT
+1361;Gozo and Comino/Għawdex u Kemmuna;MT
+1362;Oost-Groningen;NL
+1363;Delfzijl en omgeving;NL
+1364;Overig Groningen;NL
+1364;Overig Groningen;NL
+1364;Overig Groningen;NL
+1365;Noord-Friesland;NL
+1365;Noord-Friesland;NL
+1365;Noord-Friesland;NL
+1365;Noord-Friesland;NL
+1365;Noord-Friesland;NL
+1365;Noord-Friesland;NL
+1366;Zuidwest-Friesland;NL
+1367;Zuidoost-Friesland;NL
+1368;Noord-Drenthe;NL
+1369;Zuidoost-Drenthe;NL
+1370;Zuidwest-Drenthe;NL
+1371;Piotrkowski;PL
+1372;Sieradzki;PL
+1373;Skierniewicki;PL
+1374;Kielecki;PL
+1375;Sandomiersko-jędrzejowski;PL
+1376;Bialski;PL
+1377;Ards and North Down;UK
+1377;Ards and North Down;UK
+1377;Ards and North Down;UK
+1378;Derry City and Strabane;UK
+1379;Mid Ulster;UK
+1380;Causeway Coast and Glens;UK
+1380;Causeway Coast and Glens;UK
+1381;Antrim and Newtownabbey;UK
+1382;Lisburn and Castlereagh;UK
+1383;Mid and East Antrim;UK
+1384;Fermanagh and Omagh;UK
+1385;Berat;AL
+1386;Berkshire;UK
+1387;Milton Keynes;UK
+1388;Buckinghamshire CC;UK
+1389;Oxfordshire;UK
+1390;Uppsala län;SE
+1390;Uppsala län;SE
+1390;Uppsala län;SE
+1390;Uppsala län;SE
+1390;Uppsala län;SE
+1390;Uppsala län;SE
+1390;Uppsala län;SE
+1390;Uppsala län;SE
+1390;Uppsala län;SE
+1390;Uppsala län;SE
+1390;Uppsala län;SE
+1390;Uppsala län;SE
+1390;Uppsala län;SE
+1390;Uppsala län;SE
+1390;Uppsala län;SE
+1390;Uppsala län;SE
+1390;Uppsala län;SE
+1390;Uppsala län;SE
+1390;Uppsala län;SE
+1390;Uppsala län;SE
+1390;Uppsala län;SE
+1391;Södermanlands län;SE
+1391;Södermanlands län;SE
+1391;Södermanlands län;SE
+1391;Södermanlands län;SE
+1391;Södermanlands län;SE
+1391;Södermanlands län;SE
+1391;Södermanlands län;SE
+1391;Södermanlands län;SE
+1391;Södermanlands län;SE
+1391;Södermanlands län;SE
+1391;Södermanlands län;SE
+1391;Södermanlands län;SE
+1392;Östergötlands län;SE
+1392;Östergötlands län;SE
+1392;Östergötlands län;SE
+1392;Östergötlands län;SE
+1392;Östergötlands län;SE
+1392;Östergötlands län;SE
+1392;Östergötlands län;SE
+1392;Östergötlands län;SE
+1392;Östergötlands län;SE
+1392;Östergötlands län;SE
+1392;Östergötlands län;SE
+1392;Östergötlands län;SE
+1392;Östergötlands län;SE
+1392;Östergötlands län;SE
+1392;Östergötlands län;SE
+1392;Östergötlands län;SE
+1392;Östergötlands län;SE
+1392;Östergötlands län;SE
+1392;Östergötlands län;SE
+1392;Östergötlands län;SE
+1392;Östergötlands län;SE
+1392;Östergötlands län;SE
+1392;Östergötlands län;SE
+1392;Östergötlands län;SE
+1392;Östergötlands län;SE
+1393;Noord-Overijssel;NL
+1394;Zuidwest-Overijssel;NL
+1395;Twente;NL
+1396;Veluwe;NL
+1397;Zuidwest-Gelderland;NL
+1398;Achterhoek;NL
+1399;Arnhem/Nijmegen;NL
+1400;Flevoland;NL
+1401;Utrecht;NL
+1402;Kop van Noord-Holland;NL
+1402;Kop van Noord-Holland;NL
+1403;IJmond;NL
+1404;Agglomeratie Haarlem;NL
+1405;Zaanstreek;NL
+1406;Het Gooi en Vechtstreek;NL
+1407;Alkmaar en omgeving;NL
+1408;Groot-Amsterdam;NL
+1409;Agglomeratie's-Gravenhage;NL
+1410;Delft en Westland;NL
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1411;Finnmark;NO
+1412;Miasto Kraków;PL
+1413;Krakowski;PL
+1414;Przemyski;PL
+1415;Brighton and Hove;UK
+1416;East Sussex CC;UK
+1417;West Surrey;UK
+1418;East Surrey;UK
+1419;West Sussex (South West);UK
+1420;West Sussex (North East);UK
+1421;Portsmouth;UK
+1422;Southampton;UK
+1423;Isle of Wight;UK
+1424;South Hampshire;UK
+1424;South Hampshire;UK
+1424;South Hampshire;UK
+1425;Central Hampshire;UK
+1426;North Hampshire;UK
+1427;Medway;UK
+1428;Kent Thames Gateway;UK
+1428;Kent Thames Gateway;UK
+1428;Kent Thames Gateway;UK
+1429;East Kent;UK
+1430;Mid Kent;UK
+1431;Bursa;TR
+1431;Bursa;TR
+1432;Eskisehir;TR
+1433;Bilecik;TR
+1434;Kocaeli;TR
+1435;Sakarya;TR
+1436;Düzce;TR
+1437;Bolu;TR
+1438;Yalova;TR
+1439;Olt;RO
+1440;Agglomeratie Leiden en Bollenstreek;NL
+1441;Zuidoost-Zuid-Holland;NL
+1442;Oost-Zuid-Holland;NL
+1443;Groot-Rijnmond;NL
+1444;Zeeuwsch-Vlaanderen;NL
+1445;Overig Zeeland;NL
+1445;Overig Zeeland;NL
+1446;West-Noord-Brabant;NL
+1447;Midden-Noord-Brabant;NL
+1448;Noordoost-Noord-Brabant;NL
+1449;Zuidoost-Noord-Brabant;NL
+1450;Noord-Limburg;NL
+1451;Midden-Limburg;NL
+1452;Zuid-Limburg;NL
+1453;Oslo;NO
+1453;Oslo;NO
+1453;Oslo;NO
+1453;Oslo;NO
+1454;Nigde;TR
+1455;Nevsehir;TR
+1456;Kirsehir;TR
+1457;Kayseri;TR
+1458;Sivas;TR
+1459;Yozgat;TR
+1460;Zonguldak;TR
+1461;Karabük;TR
+1462;Bartin;TR
+1463;West Kent;UK
+1464;Bristol, City of;UK
+1465;Bath and North East Somerset, North Somerset and South Gloucestershire;UK
+1466;Gloucestershire;UK
+1467;Swindon;UK
+1468;Wiltshire CC;UK
+1469;Bournemouth and Poole;UK
+1470;Dorset CC;UK
+1470;Dorset CC;UK
+1470;Dorset CC;UK
+1471;Somerset;UK
+1472;Cornwall and Isles of Scilly;UK
+1472;Cornwall and Isles of Scilly;UK
+1472;Cornwall and Isles of Scilly;UK
+1472;Cornwall and Isles of Scilly;UK
+1472;Cornwall and Isles of Scilly;UK
+1473;Plymouth;UK
+1474;Torbay;UK
+1475;Vâlcea;RO
+1476;Arad;RO
+1477;Caraş-Severin;RO
+1478;Hunedoara;RO
+1478;Hunedoara;RO
+1479;Timiş;RO
+1480;Beogradska oblast;RS
+1481;Örebro län;SE
+1482;Akershus;NO
+1482;Akershus;NO
+1482;Akershus;NO
+1482;Akershus;NO
+1482;Akershus;NO
+1483;Hedmark;NO
+1484;Oppland;NO
+1485;Østfold;NO
+1485;Østfold;NO
+1485;Østfold;NO
+1485;Østfold;NO
+1485;Østfold;NO
+1485;Østfold;NO
+1485;Østfold;NO
+1485;Østfold;NO
+1485;Østfold;NO
+1485;Østfold;NO
+1485;Østfold;NO
+1485;Østfold;NO
+1485;Østfold;NO
+1485;Østfold;NO
+1485;Østfold;NO
+1485;Østfold;NO
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1486;Västra Götalands län;SE
+1487;Kastamonu;TR
+1488;Çankiri;TR
+1489;Devon CC;UK
+1489;Devon CC;UK
+1489;Devon CC;UK
+1490;Isle of Anglesey;UK
+1491;Gwynedd;UK
+1491;Gwynedd;UK
+1492;Conwy and Denbighshire;UK
+1493;South West Wales;UK
+1493;South West Wales;UK
+1493;South West Wales;UK
+1493;South West Wales;UK
+1493;South West Wales;UK
+1494;Central Valleys;UK
+1495;Gwent Valleys;UK
+1496;Bridgend and Neath Port Talbot;UK
+1497;Swansea;UK
+1498;Monmouthshire and Newport;UK
+1499;Cardiff and Vale of Glamorgan;UK
+1500;Flintshire and Wrexham;UK
+1501;Powys;UK
+1502;Västmanlands län;SE
+1503;Jönköpings län;SE
+1503;Jönköpings län;SE
+1504;Kronobergs län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1505;Norrbottens län;SE
+1506;Pomurska;SI
+1507;Podravska;SI
+1508;Prishtinë;XK
+1509;Mitrovicë;XK
+1510;Pejë;XK
+1511;Prizren;XK
+1512;Ferizaj;XK
+1513;Gjilan;XK
+1514;Gjakovë;XK

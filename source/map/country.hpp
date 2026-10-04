@@ -50,6 +50,8 @@ class Country
 
 		Country(const std::string& country_id, u32 color, const std::vector<std::string>& states) : id(country_id), color(color), state_ids(states) {}
 
+		Country() : id(""), color(0) {}
+
 		std::string getId() const { return id; }
 
 		void addStateId(const std::string& state_id)

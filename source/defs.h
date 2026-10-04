@@ -20,4 +20,4 @@
 #define GRRLIB_EMPTY   0x00000000
 
 #define TITLE "Levedica"
-#define VERSION_NUM "0.0.1"
+#define VERSION_NUM "0.3.0"

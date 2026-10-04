@@ -42,7 +42,7 @@ vec2 screen_pos_to_map(vec2 screenPos, vec2 mapPos, vec2 mapScale, u32 map_width
 	return mapCoords;
 }
 
-GRRLIB_texImg* prerenderMap(GRRLIB_texImg *source_map, u32 provinceColor, u32 selectedColor, u32 borderColor, u32 coastlineColor, int borderThickness, std::vector<State> states, std::vector<Country> countries)
+GRRLIB_texImg* prerenderMap(GRRLIB_texImg *source_map, u32 provinceColor, u32 selectedColor, u32 borderColor, u32 coastlineColor, int borderThickness, std::vector<State> states, std::vector<Country> countries, int selectedStateID = -1)
 {
 	if(!source_map)
 	{
@@ -134,7 +134,16 @@ GRRLIB_texImg* prerenderMap(GRRLIB_texImg *source_map, u32 provinceColor, u32 se
 			}
 			else if(isBorder)
 			{
-				GRRLIB_SetPixelTotexImg(x, y, output_map, borderColor); 
+				// Check if the current state is the selected one
+				uint16_t state_id = rgb_to_16bit(r, g, b);
+				if (state_id == selectedStateID)
+				{
+					GRRLIB_SetPixelTotexImg(x, y, output_map, selectedColor);
+				}
+				else
+				{
+					GRRLIB_SetPixelTotexImg(x, y, output_map, borderColor);
+				}
 			}
 			else
 			{
