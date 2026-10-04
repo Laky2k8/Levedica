@@ -30,3 +30,21 @@ Step 3: The game is waiting for you under `Levedica.elf`!
 ## How to run on an actual Wii
 
 I don't really know because I don't have a Wii yet... will add instructions here once I get one ;)
+
+
+## Screenshots
+
+<img width="2312" height="1342" alt="image" src="https://github.com/user-attachments/assets/88408b65-16b7-4f01-a79e-0f663340a525" />
+
+*Country selection*
+
+<img width="2311" height="1343" alt="image" src="https://github.com/user-attachments/assets/735ebc59-652b-4ff6-a9a6-e6b69ebcaabf" />
+
+*Game view*
+
+<img width="2313" height="1336" alt="image" src="https://github.com/user-attachments/assets/208d0c47-675b-4d9e-9188-a27402b5574f" />
+
+*Conquering in progress*
+
+
+
